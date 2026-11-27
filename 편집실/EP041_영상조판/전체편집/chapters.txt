@@ -1,0 +1,43 @@
+;FFMETADATA1
+title=월분배금과 매표소의 두 서랍
+artist=TRUSTA 투자연구소
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=175056
+title=열두 번째 봉투에 ‘이익’이라고 써도 될까
+[CHAPTER]
+TIMEBASE=1/1000
+START=175056
+END=369100
+title=파란 수첩에서 사라진 돈
+[CHAPTER]
+TIMEBASE=1/1000
+START=369100
+END=578650
+title=절취선에서 표를 찢어도 금액은 남는다
+[CHAPTER]
+TIMEBASE=1/1000
+START=578650
+END=775805
+title=열두 걸음 뒤에 도착한 사람은 몇 장을 받나
+[CHAPTER]
+TIMEBASE=1/1000
+START=775805
+END=987742
+title=봉투 안에 돈 대신 주식 한 주를 넣었더니
+[CHAPTER]
+TIMEBASE=1/1000
+START=987742
+END=1216447
+title=같은 팩트시트에서 달라 보이는 두 퍼센트
+[CHAPTER]
+TIMEBASE=1/1000
+START=1216447
+END=1440032
+title=이미 써 버린 육십만 원은 어디에 적을까
+[CHAPTER]
+TIMEBASE=1/1000
+START=1440032
+END=1645920
+title=마감 도장 밑에 한 줄을 남기다
