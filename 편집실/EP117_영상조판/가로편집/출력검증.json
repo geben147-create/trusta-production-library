@@ -1,0 +1,27 @@
+{
+    "programs": [
+
+    ],
+    "stream_groups": [
+
+    ],
+    "streams": [
+        {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "codec_name": "aac",
+            "codec_type": "audio"
+        },
+        {
+            "codec_name": "mov_text",
+            "codec_type": "subtitle"
+        }
+    ],
+    "format": {
+        "duration": "1305.400000"
+    }
+}

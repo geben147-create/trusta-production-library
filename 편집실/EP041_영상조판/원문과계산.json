@@ -1,0 +1,55 @@
+{
+  "가상조건": "원화 세전, 비용·이자 0, 원래 사례는 미재투자·외부 입출금 없음, 연초 1천 주 × 1만 원, 월말 주당 100원씩 12회, 기말 분배 반영 후 8,500원",
+  "원화장부": [
+    [
+      1000,
+      8500,
+      1200000,
+      9700000
+    ],
+    [
+      1000,
+      8700,
+      1200000,
+      9900000
+    ],
+    [
+      1000,
+      8800,
+      1200000,
+      10000000
+    ],
+    [
+      1000,
+      8900,
+      1200000,
+      10100000
+    ]
+  ],
+  "재투자_하락_현금과재투자": [
+    870000,
+    868600
+  ],
+  "재투자_상승_현금과재투자": [
+    1070000,
+    1070600
+  ],
+  "공시기준일": "2026-09-30",
+  "미국QYLD_팩트시트_해시": "c755c5d134634d816d80275a03c93553f5a964feeced2eeb46a3b0e2dbdad317",
+  "원문관측": {
+    "1쪽 최근12개월 분배율": 12.11,
+    "1쪽 1년 NAV 성과": 22.94,
+    "지급이력 2026-10 배당락일·지급일": [
+      "2026-10-19",
+      "2026-10-22"
+    ]
+  },
+  "확인일": "2026-11-27",
+  "원문": [
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/fund-distributions-investor-bulletin",
+    "https://assets.ctfassets.net/9gigg57dwmx9/funds-documents-qyld-fact-sheet_qyld-af2371ada8/19b9c4deab1c51478c64bbfaba382acf/Fact-Sheet_QYLD.pdf",
+    "https://www.globalxetfs.com/funds/qyld",
+    "https://www.investor.gov/introduction-investing/investing-basics/glossary/ex-dividend-dates-when-are-you-entitled-stock-and",
+    "https://www.sec.gov/Archives/edgar/data/1432353/000093041326000081/c114720_ncsr.htm"
+  ]
+}

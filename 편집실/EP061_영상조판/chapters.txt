@@ -1,0 +1,43 @@
+;FFMETADATA1
+title=한 상품인데 이름이 왜 둘일까? · 천억이의 금융 만화
+artist=TRUSTA 투자연구소
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=338005
+title=주문창의 네 글자와 설명서의 긴 한 줄
+[CHAPTER]
+TIMEBASE=1/1000
+START=338005
+END=470681
+title=커피 영수증에서 ‘net’을 발견하다
+[CHAPTER]
+TIMEBASE=1/1000
+START=470681
+END=612229
+title=열 개를 찾으려면 왜 열일곱 줄이 필요할까
+[CHAPTER]
+TIMEBASE=1/1000
+START=612229
+END=765766
+title=분모를 바꾸자 67.51이 44.07이 됐다
+[CHAPTER]
+TIMEBASE=1/1000
+START=765766
+END=908707
+title=달력을 닷새로 접었더니 첫째 줄이 사라졌다
+[CHAPTER]
+TIMEBASE=1/1000
+START=908707
+END=1069180
+title=순위에 붙은 ‘하루’를 한 번 떼어 보면
+[CHAPTER]
+TIMEBASE=1/1000
+START=1069180
+END=1235052
+title=거래가 끝난 뒤 계좌에 남은 것
+[CHAPTER]
+TIMEBASE=1/1000
+START=1235052
+END=1400090
+title=지우지 않기로 한 다섯 글자

@@ -1,0 +1,47 @@
+{
+  "directory": "/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP011_영상조판/glass",
+  "charts": {
+    "years1": {
+      "unit": "달러",
+      "top": 1250,
+      "values": [
+        1157.0,
+        1156.0,
+        1157.4
+      ],
+      "labels": [
+        "VOO",
+        "SPY",
+        "S&P 500 지수"
+      ]
+    },
+    "years5": {
+      "unit": "달러",
+      "top": 2000,
+      "values": [
+        1904.39,
+        1896.04,
+        1907.75
+      ],
+      "labels": [
+        "VOO",
+        "SPY",
+        "S&P 500 지수"
+      ]
+    },
+    "years10": {
+      "unit": "달러",
+      "top": 4500,
+      "values": [
+        4148.74,
+        4109.33,
+        4163.16
+      ],
+      "labels": [
+        "VOO",
+        "SPY",
+        "S&P 500 지수"
+      ]
+    }
+  }
+}

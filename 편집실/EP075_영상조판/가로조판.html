@@ -1,0 +1,33 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><title>초록 알림과 빨간 계좌</title>
+<style>
+@font-face{font-family:Jalnan;src:url('file:///home/yh/.local/share/fonts/JalnanGothic/JalnanGothic.ttf')}
+*{box-sizing:border-box}body{margin:0;width:1920px;height:1080px;padding:45px 50px;background:#f5efe6;font-family:Jalnan,sans-serif;color:#243339}h1{margin:0 0 18px;font-size:67px;line-height:1.09;letter-spacing:-2px}mark{background:#fff0b0;color:inherit;padding:0 6px}b{color:#8c2029}
+main{display:grid;grid-template-columns:1210px 1fr;gap:20px;height:830px}
+.chart,.story article{border:4px solid #323d42;background:#fffbef;border-radius:19px;overflow:hidden}
+.chart{padding:21px 30px}.chart h2{font-size:42px;margin:0 0 10px}.chart p{font-size:27px;margin:11px 0}.chart img{width:100%;height:600px;display:block;object-fit:contain;background:#f8f4ea;border-radius:12px}
+.story{display:grid;grid-template-rows:280px 252px 258px;gap:20px}.story article{position:relative;padding:25px}.story article h2{margin:0;font-size:32px}.story article p{font-size:28px;line-height:1.38;margin:11px 0}
+.story .reaction{width:232px;height:247px;object-fit:none;object-position:50% 0;position:absolute;right:7px;top:23px}
+.story .friend{position:absolute;left:13px;top:25px;width:214px;height:186px;overflow:hidden;background:#b89478;border-radius:12px}.friend img{width:214px;position:absolute;top:-25px;clip-path:inset(0 18px 0 0)}
+.bubble{border:3px solid #323d42;background:#fffefb;border-radius:24px;position:absolute;padding:14px 18px;font-size:32px;line-height:1.4}
+.bubble:after{content:"";position:absolute;top:46px;width:16px;height:16px;transform:rotate(45deg);background:#fffefb}
+.one{left:25px;top:48px}.one:after{right:-11px;border-top:3px solid #323d42;border-right:3px solid #323d42}
+.two{right:22px;top:46px}.two:after{left:-11px;border-bottom:3px solid #323d42;border-left:3px solid #323d42}
+footer{margin-top:19px;padding-top:8px;border-top:2px solid #b8ac9b;font-size:24px;display:flex;justify-content:space-between}
+</style>
+<h1>실적은 예상을 넘었는데 <mark>주가는 왜 내렸을까?</mark></h1>
+<main>
+<section class="chart">
+<h2>발표 뒤 어디의 가격을 봤나요?</h2>
+<p>가상 미국 주식 · 발표 전 종가를 기준으로 비교</p>
+<img src="glass/price_표기.png" alt="가상 주당 가격은 발표 전 종가 100달러, 시간외 체결 94달러, 다음 날 종가 96달러">
+<p>다음 정규장 시가 97달러 · 다음 정규장 종가 96달러</p>
+<p>100달러에서 96달러로 → 보유 주식 가격 <b>−4%</b></p>
+</section>
+<section class="story">
+<article><img class="reaction" src="../../집필인계/천억이_시그니처표정.png" alt="놀란 천억이"><div class="bubble one">이익은 예상보다<br><b>5% 높다며!</b></div></article>
+<article><div class="friend"><img src="../../집필인계/천억이_수건친구.png" alt="가격표를 가리키는 수건 친구"></div><div class="bubble two">5%는 이익 비교.<br>−4%는 <b>주가 변화</b>야.</div></article>
+<article><h2>주당순이익 비교</h2><p>예상 <mark>2.00달러</mark> → 발표 <mark>2.10달러</mark></p><p>같은 회계 기준에서만 비교</p><p><b>발표 시각</b>과 <b>예상치 수집 시각</b>도 확인</p></article>
+</section>
+</main>
+<footer><span>가상 예시 · 달러 · 배당·세금·비용·환율 제외</span><span>TRUSTA 투자연구소</span></footer>
+</html>

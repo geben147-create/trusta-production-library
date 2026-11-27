@@ -1,0 +1,38 @@
+{
+  "ID": "EP113",
+  "제목": "은퇴 첫해 ETF가 20% 하락하면? 수익률이 같아도 생활비를 빼면 450만 원 차이",
+  "독자": "은퇴 초기 투자 인출과 생활비를 맞추려는 독자",
+  "주요질문": "연간 투자 수익률이 같아도 하락과 인출 순서가 은퇴 잔액에 영향을 줄까?",
+  "답": "가상 1억 원에서 연말 1천만 원씩 인출하면 같은 두 수익률을 반대로 겪을 때 450만 원 차이가 난다.",
+  "출처": [
+    {
+      "제목": "Morningstar · The State of Retirement Income",
+      "URL": "https://www.morningstar.com/content/cs-assets/v3/assets/blt9415ea4cc4157833/bltb73b87c5d0c70ead/The_State_of_Retirement_Income_2025.pdf"
+    },
+    {
+      "제목": "Vanguard · Retirement risks and how to manage them",
+      "URL": "https://investor.vanguard.com/investor-resources-education/retirement/risks-you-face-in-retirement"
+    }
+  ],
+  "기준": "은퇴 후 가상 2년·원화·연말 인출·분배금 재투자",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 가로 정보 만화",
+      "원본": "생활비_순서차트.png",
+      "파일": "영상/EP113/생활비_순서차트.png",
+      "대체텍스트": "천억이와 수건 친구가 은퇴 2년 장부를 비교한다. 하락부터 겪으면 7,750만 원, 상승부터 겪으면 8,200만 원이 남는다.",
+      "캡션": "원금 1억 원에서 매년 말 1,000만 원씩 인출한 원화 가상 장부. 선은 연말 잔액을 잇는다.",
+      "위치": "2년 잔액 비교 바로 뒤"
+    }
+  ],
+  "원고": "EP113.md",
+  "팩트체크": "Morningstar 원 연구와 Vanguard 공식 안내 대조·세 가지 시나리오 Decimal 검산. 특정 ETF·세법 미적용.",
+  "분야": "은퇴 생활비·수익률 순서",
+  "관련": [
+    "EP041",
+    "EP109"
+  ],
+  "장문진행": "8장 본문과 가로 만화 준비. 낭독 확장·지정 음성 실측 대기.",
+  "원고해시": "8ddf906942c3258276dfb1b1711e8dd00837eab61c90fdce6ebe1c82c7ac4a78"
+}

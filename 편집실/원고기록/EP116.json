@@ -1,0 +1,58 @@
+{
+  "ID": "EP116",
+  "제목": "미국 주식, 1년과 5년의 순위는?",
+  "독자": "미국·선진국·신흥국 ETF의 기간 성과와 국가 분산을 비교하는 독자",
+  "주요질문": "편집부가 만든 질문. 같은 2025년 말에도 1년과 5년의 지역 ETF 순위가 달라질까?",
+  "답": "동일 원금의 공시 성과에서 1년은 IEMG가, 5년은 IVV가 앞섰다.",
+  "출처": [
+    {
+      "제목": "IVV 공식 자료",
+      "URL": "https://www.ishares.com/us/products/239726/ishares-core-s-p-500-etf-ivv"
+    },
+    {
+      "제목": "IEFA 공식 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/iefa-ishares-core-msci-eafe-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "IEMG 공식 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/iemg-ishares-core-msci-emerging-markets-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "연준 H.10",
+      "URL": "https://www.federalreserve.gov/releases/h10/Hist/dat00_ko.htm"
+    },
+    {
+      "제목": "MSCI EAFE 지수 계열 자료",
+      "URL": "https://www.msci.com/documents/10199/b622e138-666c-4994-a10f-cefc659ba1b3"
+    },
+    {
+      "제목": "MSCI 신흥시장 IMI",
+      "URL": "https://www.msci.com/indexes/index/664220/msci-em-emerging-markets-imi-index"
+    },
+    {
+      "제목": "FTSE Russell 지수 규칙",
+      "URL": "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/ground-rules/ftse-global-equity-index-series-ground-rules.pdf"
+    }
+  ],
+  "기준": "2025년 1년 및 2021~2025년 5년, 달러 NAV 총수익과 H.10",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-507e72ed-5e17-462c-8190-8432ad05d880.png",
+      "파일": "시각자료/EP116_지역순위_가로.png",
+      "위치": "도입 답변 뒤, 자료 Q&A 위",
+      "대체텍스트": "천억이와 수건 친구가 1년과 5년의 주식 ETF 평가액을 비교한다",
+      "캡션": "1,000만 원 가상 투자, 공시 성과 및 원화 환산, 비용 제외.",
+      "기간": "2025년 및 2021~2025년"
+    }
+  ],
+  "원고": "EP116.md",
+  "팩트체크": "iShares NAV·연준 H.10 복리 및 원화 재계산. MSCI·FTSE 한국 분류 구분.",
+  "관련": [
+    "EP006",
+    "EP104"
+  ],
+  "분야": "지역 ETF 과거 투자성과와 국가 비중",
+  "원고해시": "3910a80c6e04e2c3c85d873135d95145fb68a58c85c4fabd4e48dcdf2b3c1c33"
+}

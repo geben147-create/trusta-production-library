@@ -1,0 +1,42 @@
+{
+  "ID": "EP160",
+  "제목": "치과비 때문에 달러 예금을 먼저 찾았더니, 왜 원금보다 적었을까?",
+  "독자": "분배금을 생활비에 쓰려는 은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 같은 달러 예금인데 만기 전에 정리할 때 왜 순수령액이 다를까?",
+  "답": "직접 가입 CD는 약정 조기해지 조건, 중개 CD의 매도는 거래 가격과 매도비를 적용한다.",
+  "출처": [
+    {
+      "제목": "미 SEC 중개 CD 투자자 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/brokered-cds-investor-bulletin"
+    },
+    {
+      "제목": "미 FDIC 예금보험 안내",
+      "URL": "https://www.fdic.gov/deposit-insurance/deposit-insurance-glance-brochure-english.pdf"
+    },
+    {
+      "제목": "미 SEC 발행은행 조기상환 가능 CD 설명",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/glossary/callable-cds"
+    }
+  ],
+  "기준": "SEC 중개 CD 안내, FDIC 예금보험 안내, 가상 6개월 비교",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-fd9feeb0-4b6c-4d0d-aa4b-415a77b008db.png",
+      "파일": "시각자료/EP160_달러예금치과비_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "천억이와 동료가 6개월 뒤 가상 치과비를 확인한다. 필요액 9,900달러, 직접 가입 CD 10,100달러, 중개 CD 매도 9,825달러, 부족분 75달러.",
+      "캡션": "달러 1만 달러로 시작해 6개월에 정리한 가상 비교입니다. 예금 상품의 실제 조건과 시장 가격은 다를 수 있습니다.",
+      "기간": "가상 6개월 뒤"
+    }
+  ],
+  "원고": "EP160.md",
+  "팩트체크": "조기해지, 경과이자 포함 매도대금, 예금보험 합산 가정과 낭독 1.2배속 1021.341초 확인.",
+  "관련": [
+    "EP158",
+    "EP156"
+  ],
+  "분야": "은퇴 생활비와 미국 달러 예금 중도 정리",
+  "원고해시": "b82d442f7d0f671cf4898207e534fcad9885678cc4cfeb1173694680371bd4a0"
+}

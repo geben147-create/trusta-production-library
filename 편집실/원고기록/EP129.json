@@ -1,0 +1,78 @@
+{
+  "ID": "EP129",
+  "제목": "미국 물가가 6.5% 오른 해, 물가연동채 ETF는 왜 12.13% 내렸을까?",
+  "독자": "물가연동채 ETF의 보호 범위를 알고 싶은 투자자",
+  "주요질문": "미국 물가가 오른 해에 물가연동채 ETF 평가액이 왜 줄었을까?",
+  "답": "개별 채권의 물가 조정 원금 및 만기 액면 조건과 ETF의 시장 평가를 구분한다.",
+  "출처": [
+    {
+      "제목": "TreasuryDirect TIPS 안내",
+      "URL": "https://www.treasurydirect.gov/marketable-securities/tips/"
+    },
+    {
+      "제목": "미 노동통계국 CPI 발표",
+      "URL": "https://www.bls.gov/news.release/archives/cpi_01122023.htm"
+    },
+    {
+      "제목": "iShares TIP 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/tip-ishares-tips-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "iShares IEF 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/ief-ishares-7-10-year-treasury-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "미 연준 H.15 · FRED 10년 물가연동 국채 수익률",
+      "URL": "https://fred.stlouisfed.org/series/DFII10"
+    },
+    {
+      "제목": "iShares STIP 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/stip-ishares-0-5-year-tips-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "미 연준 H.10 · FRED 원·달러 현물환율",
+      "URL": "https://fred.stlouisfed.org/series/DEXKOUS"
+    },
+    {
+      "제목": "미 노동통계국 CPI 발표",
+      "URL": "https://www.bls.gov/news.release/archives/cpi_01132021.htm"
+    },
+    {
+      "제목": "미 노동통계국 CPI 발표",
+      "URL": "https://www.bls.gov/news.release/archives/cpi_01132026.htm"
+    },
+    {
+      "제목": "TreasuryDirect TIPS CPI 자료",
+      "URL": "https://www.treasurydirect.gov/auctions/announcements-data-results/tips-cpi-data/"
+    }
+  ],
+  "기준": "2021~2025 달력연도 달러 NAV 총수익 재구성 및 미국 CPI-U 2021-12~2022-12",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 원문 조회 화면",
+      "원본": "iShares TIP·IEF 팩트시트",
+      "파일": "영상/EP129/팩트시트_NAV_조회.png",
+      "위치": "2022년 가상 잔액 계산 직전",
+      "대체텍스트": "천억이가 두 iShares 팩트시트의 2022년 NAV 성과 칸을 가리킨다. TIP은 −12.13%, IEF는 −15.23%다.",
+      "캡션": "두 상품의 달력연도 표에서 같은 해의 NAV 총수익 행을 비교한다."
+    },
+    {
+      "종류": "16:9 입체 비교 만화",
+      "원본": "2022년 TIP·IEF NAV 공시 및 두 캐릭터 원화",
+      "파일": "영상/EP129/물가와_채권_2022.png",
+      "위치": "2022년 실제 성과의 가상 잔액 산술 뒤",
+      "대체텍스트": "천억이와 수건 친구가 2022년 초에 각각 1만 달러를 넣었을 때 TIP 8,787달러와 IEF 8,477달러로 남은 가상 잔액을 공통 0선의 입체 막대로 비교한다.",
+      "캡션": "2022년 공시 NAV 총수익률을 적용한 달러 잔액이다. TIP에 310달러 더 남았지만 두 계좌 모두 시작 원금보다 줄었다."
+    }
+  ],
+  "원고": "EP129.md",
+  "팩트체크": "공식 NAV 수익률과 연준 실질금리 확인. 연말 표본 최대 하락 검산. ETF 일별 최대낙폭은 미검증.",
+  "관련": [
+    "EP044",
+    "EP115"
+  ],
+  "분야": "채권 ETF",
+  "원고해시": "1e92be8d1f92872e0e440eb8d5076c3f71b2ea762a8bc52b4f0dca278d7adac4",
+  "장문진행": "8장·공시 성과와 별도 거래 비용을 비교해 순위가 바뀌는 두 가정 검산. 지정 음성 실측 대기."
+}

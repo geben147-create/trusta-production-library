@@ -1,0 +1,38 @@
+{
+  "ID": "EP106",
+  "제목": "해외 ETF 비용 확인 TOP 7",
+  "독자": "해외 ETF 수수료 무료 조건을 거래 내역에서 검증하려는 독자",
+  "주요질문": "편집부가 만든 질문. 직접 수수료가 0원이면 실제 비용도 0원일까?",
+  "답": "거래 수수료 외 환전, 호가, 운영비가 잔액을 줄일 수 있다.",
+  "출처": [
+    {
+      "제목": "SEC ETF 거래와 호가",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24"
+    },
+    {
+      "제목": "SEC 펀드 비용 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin"
+    }
+  ],
+  "기준": "가상 1년, 원화 1,000만 원, 개인 세금 제외",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-a6150550-eb92-4fbc-bc16-210528d92481.png",
+      "파일": "시각자료/EP106_비용확인_가로.png",
+      "위치": "도입 답변 뒤, 자료 Q&A 위",
+      "대체텍스트": "천억이와 수건 친구가 비용 확인 순서 7개와 기말 989만 원을 보여 준다",
+      "캡션": "가상 1년, 비용 확인 순서, 만 원 단위 반올림.",
+      "기간": "가상 1년"
+    }
+  ],
+  "원고": "EP106.md",
+  "팩트체크": "SEC 공식 투자자 안내 확인. 가상 환전·호가·운영비 순차 차감 및 반례 계산.",
+  "관련": [
+    "EP068",
+    "EP092"
+  ],
+  "분야": "해외 ETF 거래 비용 확인",
+  "원고해시": "4bfda2c9918031d2b0179ea237b714867932a5ab8bbc6be01cebc339e9603a36"
+}

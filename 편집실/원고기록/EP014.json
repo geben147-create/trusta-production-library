@@ -1,0 +1,45 @@
+{
+  "ID": "EP014",
+  "제목": "VTI에 S&P 500을 더 사면 중소형주 비중이 늘어날까?",
+  "독자": "미국 전체시장과 대형주를 함께 보유한 독자",
+  "주요질문": "‘전체시장’과 ‘500개 기업’을 반씩 사면 중소형주가 절반쯤 되지 않을까?",
+  "답": "종목 수와 투자금 비중은 다르다. 시가총액 가중에서는 많은 소형 회사의 합이 대형주 몇 곳보다 작을 수 있다.",
+  "출처": [
+    {
+      "제목": "Vanguard VTI 2026년 9월 팩트시트",
+      "URL": "https://institutional.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0970.pdf"
+    },
+    {
+      "제목": "Vanguard VOO 운용 팩트시트",
+      "URL": "https://institutional.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0968.pdf"
+    },
+    {
+      "제목": "S&P 다우존스 지수 산출기관",
+      "URL": "https://www.spglobal.com/spdji/en/indices/equity/sp-500/"
+    },
+    {
+      "제목": "Vanguard 투자설명서 보충 공시",
+      "URL": "https://www.sec.gov/Archives/edgar/data/36405/000003640526000386/f45788d1.htm"
+    }
+  ],
+  "기준": "팩트시트 2026-09-30",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 3D 정보만화",
+      "원본": "EP014_전체시장_3D.png",
+      "파일": "시각자료/EP014_전체시장_3D.png",
+      "위치": "가상 배분 계산 뒤",
+      "대체텍스트": "전체시장만 보유 15%, S&P 500과 절반씩 보유 7.5%의 가상 예시",
+      "캡션": "S&P 500 밖 종목의 가상 비중. 소형주 전체 비중과 구별한다."
+    }
+  ],
+  "원고": "EP014.md",
+  "팩트체크": "지수 명칭 변경과 가상 비중 산술 대조",
+  "관련": [
+    "EP015",
+    "FAQ01"
+  ],
+  "분야": "미국·글로벌 ETF 비교",
+  "원고해시": "fc12ddb45c890d48460dac0d3269d5abd4884bb35bdb2d089c35a127721dec14"
+}

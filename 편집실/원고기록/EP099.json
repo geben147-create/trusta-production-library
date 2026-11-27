@@ -1,0 +1,37 @@
+{
+  "ID": "EP099",
+  "제목": "휴대폰을 바꾸기 전 증권·코인 계좌에서 확인할 일곱 가지",
+  "독자": "휴대폰 교체를 앞둔 계좌 보유자",
+  "주요질문": "옛 휴대폰을 반납하기 전에 계좌 보안과 복구를 어떻게 확인할까?",
+  "답": "공식 접속, 고유 비밀번호, 인증과 복구, 알림, 옛 기기 세션, 보관 방식, 신기기 접근을 확인한다.",
+  "출처": [
+    {
+      "제목": "미 SEC 투자계좌 보안 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-2"
+    },
+    {
+      "제목": "미 SEC 암호자산 보관 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/crypto-asset-custody-basics-retail-investors-investor-bulletin-0"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 가로 정보 만화",
+      "원본": "반납상자_계좌확인.png",
+      "파일": "영상/EP099/반납상자_계좌확인.png",
+      "대체텍스트": "천억이와 수건 친구가 휴대폰 반납 전 공식 앱, 고유 비밀번호, 다중 인증, 알림, 활성 세션, 개인 지갑 백업과 새 기기 접근을 확인한다.",
+      "캡션": "휴대폰을 바꾸기 전 계좌 보호와 접근 복구를 함께 확인하는 일곱 가지.",
+      "위치": "일곱 번째 장 뒤"
+    }
+  ],
+  "원고": "EP099.md",
+  "팩트체크": "SEC 투자계정 보호·암호자산 보관 안내 대조. 국내 서비스별 메뉴와 복구 절차는 해당 기관 확인.",
+  "관련": [
+    "EP100"
+  ],
+  "분야": "AI 검증 도구·코인·구독",
+  "원고해시": "89a6acef919ef7d0d3cd09c3792798464a6a5f71de7068860e3ecf2f957bf2ba",
+  "장문진행": "8장·가로 자료 검수. 낭독 확장과 지정 음성 실측 대기."
+}

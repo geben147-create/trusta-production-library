@@ -1,0 +1,38 @@
+{
+  "ID": "EP153",
+  "제목": "둘 다 월분배인데 1만 달러는 다르게 남았다. 우선주 ETF PFF vs 회사채 ETF LQD",
+  "독자": "분배금을 은퇴 생활비에 쓰려는 우선주·회사채 ETF 비교 독자",
+  "주요질문": "월분배라는 표시가 같은데 총수익과 원금을 꺼낼 날짜의 잔액은 얼마나 달랐나?",
+  "답": "2021~2025년에는 PFF에 더 많이 남았지만 2025년만 보면 LQD가 앞섰다. 양쪽 모두 2022년 가상 9천 달러 지출을 감당하지 못했다.",
+  "출처": [
+    {
+      "제목": "iShares PFF 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/pff-ishares-preferred-and-income-securities-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "iShares LQD 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/lqd-ishares-iboxx-investment-grade-corporate-bond-etf-fund-fact-sheet-en-us.pdf"
+    }
+  ],
+  "기준": "2021~2025 iShares 달러 연간 NAV 총수익 및 가상 1만 달러 현금화",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 병원비 비교 만화",
+      "원본": "iShares 팩트시트 및 사용자 캐릭터 원화",
+      "파일": "영상/EP153/월분배와_병원비.png",
+      "위치": "2022년 병원비 가정 계산 뒤",
+      "대체텍스트": "천억이와 수건 친구가 2022년 말 병원비 9천 달러를 가정하고 PFF 8,163달러와 LQD 8,199달러 잔액을 비교한다. 부족액은 각각 837달러와 801달러다.",
+      "캡션": "각각 1만 달러를 넣고 2022년 달러 NAV 총수익을 적용한 가상 잔액이다."
+    }
+  ],
+  "원고": "EP153.md",
+  "팩트체크": "iShares 팩트시트 두 건에서 연간 NAV와 각 판본의 듀레이션·업종 비중 확인. 합성 잔액·연말 표본 낙폭 재계산.",
+  "관련": [
+    "EP041",
+    "EP147"
+  ],
+  "분야": "자산 비교",
+  "원고해시": "8fc19343b2e4f07eb5ebb95ea0cb614aee9c2ddde6f31e80ae0f5b4f65b2e909",
+  "장문진행": "시장가격과 NAV 성과, 30일 SEC 수익률의 서로 다른 판본 기준 추가. 지정 음성 미실측."
+}

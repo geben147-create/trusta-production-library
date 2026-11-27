@@ -1,0 +1,38 @@
+{
+  "ID": "EP192",
+  "제목": "같은 2035 펀드인데, 은퇴 첫해 생활비를 빼면 얼마가 남을까?",
+  "독자": "은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 같은 2035년형 펀드에서 생활비를 인출하고 나면 잔액이 다를까?",
+  "답": "같은 연도여도 은퇴 시점과 그 이후의 자산 비중이 달라 시장과 인출 시점에 따라 잔액이 달라진다.",
+  "출처": [
+    {
+      "제목": "미국 SEC 목표연도형 펀드 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/target-date-funds-investor-bulletin"
+    },
+    {
+      "제목": "미국 노동부 목표연도형 퇴직 펀드 비교 자료",
+      "URL": "https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/our-activities/resource-center/fact-sheets/target-date-retirement-funds-erisa-plan-fiduciaries-tips.pdf"
+    }
+  ],
+  "기준": "같은 목표연도의 가상 은퇴 첫해 원화 자산 배분과 인출",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-614b8c94-f941-4946-ada1-541ec809b2e0.png",
+      "파일": "시각자료/EP192_같은목표연도_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "같은 2035년형 가상 펀드 두 개에 각각 1억 원을 넣는다. 주식 20% 하락과 채권 0%에서 1,000만 원씩 인출하니 주식 30% 쪽 8,400만 원, 50% 쪽 8,000만 원이 남는다.",
+      "캡션": "가상 은퇴 첫해 비교. 주식·채권 총수익률을 적용한 뒤 같은 날 1,000만 원씩 인출했습니다.",
+      "기간": "가상 은퇴 첫해"
+    }
+  ],
+  "원고": "EP192.md",
+  "팩트체크": "SEC·노동부 구조 설명 대조, 상승과 하락 시나리오 산식 검산. 1.2배속 1044.363초.",
+  "관련": [
+    "EP136",
+    "EP163"
+  ],
+  "분야": "은퇴 생활비와 목표연도형 펀드",
+  "원고해시": "9d020ec746e2de12c9f3ce082ff3701aaf1aa400f37e7b1e5a7b3a4c3e0335a8"
+}

@@ -1,0 +1,42 @@
+{
+  "ID": "FAQ02",
+  "제목": "ISA에서 300만 원 빼면, 한도가 돌아올까?",
+  "독자": "ISA 원금 일부를 인출하고 같은 해 재입금하려는 독자",
+  "주요질문": "편집부가 만든 질문. ISA 원금 일부를 빼고 나중에 다시 넣을 수 있을까?",
+  "답": "중도인출액만큼 한도가 복원되지 않으며 이미 남은 추가 납입 여력 안에서 넣을 수 있다.",
+  "출처": [
+    {
+      "제목": "미래에셋증권 ISA 출금·납입한도 FAQ",
+      "URL": "https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1296&curPage=6&direction=1&listType=1&searchEndDay=15&searchEndMonth=11&searchEndYear=2026&searchStartDay=15&searchStartMonth=11&searchStartYear=2025&searchType=2&startId=zzzzz~&startPage=1"
+    },
+    {
+      "제목": "조세특례제한법 제91조의18 제7항·제8항",
+      "URL": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1032230551"
+    },
+    {
+      "제목": "하나은행 일임형 ISA 계약권유문서",
+      "URL": "https://image.kebhana.com/cont/download/documents/manual/0000003210002_20250901_m.pdf"
+    }
+  ],
+  "기준": "조특법 2026-09-18 시행본 및 가상 원화 첫해 인출과 재납입",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-4e67c995-6b8d-4de3-be52-a01a45638812.png",
+      "파일": "시각자료/FAQ02_ISA인출_가로.png",
+      "위치": "질문 답변 뒤, 자료 Q&A 위",
+      "대체텍스트": "천억이와 수건 친구가 ISA 300만 원 인출 전후 잔액과 변하지 않는 납입 한도를 비교한다",
+      "캡션": "가상 사례. 첫해 납입 기준액 2,000만 원, 이미 납입한 돈 1,500만 원.",
+      "기간": "가상 첫해 인출 전후"
+    }
+  ],
+  "원고": "FAQ02.md",
+  "팩트체크": "조특법 납입 기준과 3년 전 인출 조항, 증권사 한도 비복원 안내, 잔액과 누적 납입 비교 검산.",
+  "관련": [
+    "EP025",
+    "EP070"
+  ],
+  "분야": "ISA 원금 인출과 재납입 여력",
+  "원고해시": "e4bab1c1ad46769048c820543da21bba8c141724c12dd61c147797be75b01694"
+}

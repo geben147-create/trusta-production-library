@@ -1,0 +1,53 @@
+{
+  "ID": "EP006",
+  "제목": "ETF 다섯 개 속 같은 기업, 실제 투자금은 얼마나 겹칠까?",
+  "독자": "펀드가 여러 개인 적립 투자자",
+  "주요질문": "ETF 다섯 줄이 보이는 계좌에서 한 반도체 회사가 하락했다. 잔고 다섯 줄이 동시에 빨개진다면 내 돈 중 얼마가 그 회사에 걸렸을까?",
+  "답": "전체 보유 파일의 나머지 종목이 겹칠 수 있다. 상위 열 개만 본 값은 확인한 범위의 하한으로 기록한다.",
+  "출처": [
+    {
+      "제목": "미 SEC의 ETF 구조 안내",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-2"
+    },
+    {
+      "제목": "FINRA 분산투자 안내",
+      "URL": "https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification"
+    },
+    {
+      "제목": "iShares SOXX",
+      "URL": "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf"
+    },
+    {
+      "제목": "VanEck SMH",
+      "URL": "https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "EP006_겹치는회사_가로.png",
+      "파일": "시각자료/EP006_겹치는회사_가로.png",
+      "위치": "두 펀드의 금액 합산 뒤",
+      "대체텍스트": "60만 원의 20%와 40만 원의 5%를 합산한 가상 계좌",
+      "캡션": "같은 날 평가액 기준 X사 몫은 14만 원"
+    },
+    {
+      "종류": "4:5 보조",
+      "원본": "EP006_겹치는_종목.png",
+      "파일": "그림/EP006_보조.png",
+      "대체텍스트": "두 ETF에 각각 5만 원을 투자하는 가상 사례의 주요 항목을 비교하는 카드",
+      "캡션": "카드는 가상 5만 원씩에 A사 비중 50%와 80%를 대입해 계좌 65%를 얻는다. 본문은 비대칭 배분에서 14%를 얻는 다른 사례다.",
+      "위치": "예시·반례 다음, 편집부 Q&A 직전"
+    }
+  ],
+  "원고": "EP006.md",
+  "팩트체크": "가상 2·5개 ETF 금액과 손실 검산, 실제 상품 구성표와 가정 구분",
+  "관련": [
+    "EP007",
+    "FAQ01"
+  ],
+  "분야": "ETF 기초와 상품 구조",
+  "원고해시": "cc1be6655ecd44d3aceeeb56eb0e8e054042596f9e59db64c71cf63516af518d"
+}

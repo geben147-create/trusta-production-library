@@ -1,0 +1,40 @@
+{
+  "ID": "EP042",
+  "제목": "ETF가 똑같이 100달러를 줬는데, 얼마를 벌었을까?",
+  "독자": "월 분배 ETF로 생활비를 계획하는 독자",
+  "주요질문": "같은 현금을 분배한 ETF 중 어느 쪽이 실제로 더 벌었을까?",
+  "답": "같은 원금과 기간에서 분배금과 잔여 지분을 합산하고 재투자·체결·환전·세금을 맞춘다.",
+  "출처": [
+    {
+      "제목": "미 SEC의 펀드 분배금 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/fund-distributions-investor-bulletin"
+    },
+    {
+      "제목": "Global X QYLD 상품 원문",
+      "URL": "https://www.globalxetfs.com/funds/qyld"
+    },
+    {
+      "제목": "Global X QYLD 분배 성격 추정 공지",
+      "URL": "https://assets-cms.globalxetfs.com/19a%20notice-QYLD-06.23.2025.pdf"
+    }
+  ],
+  "기준": "동일 1개월 달러 가상 계좌 및 별도 조건별 계산",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "EP042_분배재원_가로.png",
+      "파일": "시각자료/EP042_분배재원_가로.png",
+      "위치": "첫 가상 비교 뒤",
+      "대체텍스트": "천억이와 동료가 동일한 100달러 분배와 서로 다른 지분 잔액을 비교한다",
+      "캡션": "동일한 100달러 분배금과 서로 다른 기말 잔액"
+    }
+  ],
+  "원고": "EP042.md",
+  "팩트체크": "SEC 분배 안내·Global X 상품 및 19(a) 공지와 대조. 현금 포함 성과·환전·낙폭 및 중간 인출 산술 확인.",
+  "관련": [
+    "EP040"
+  ],
+  "분야": "ETF 분배금과 총수익",
+  "원고해시": "d27eaa86c0ea3481f152d61949fe79f331f7e15eda3271ffe3d04abee59b5b2d"
+}

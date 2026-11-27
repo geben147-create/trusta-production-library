@@ -1,0 +1,61 @@
+{
+  "ID": "EP045",
+  "제목": "은퇴 통장에 월분배 ETF 하나를 넣는다면? JEPI·JEPQ·SPYI·QQQI 비교법",
+  "독자": "월분배 ETF로 은퇴 생활비를 보태려는 독자",
+  "주요질문": "분배금과 공통 1년 NAV 총수익을 각 상품에서 어떻게 구분하나?",
+  "답": "같은 종료일·통화·재투자 조건의 공시 수익률을 대조하고 실제 입금은 분배 이력에서 따로 확인한다.",
+  "출처": [
+    {
+      "제목": "J.P. Morgan JEPI 팩트시트",
+      "URL": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/fs-jepi.pdf"
+    },
+    {
+      "제목": "J.P. Morgan JEPQ 팩트시트",
+      "URL": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/fs-jepq.pdf"
+    },
+    {
+      "제목": "NEOS SPYI 운용정책",
+      "URL": "https://neosfunds.com/spyi/"
+    },
+    {
+      "제목": "NEOS QQQI 운용정책",
+      "URL": "https://neosfunds.com/qqqi/"
+    },
+    {
+      "제목": "J.P. Morgan JEPI·분기 말 성과",
+      "URL": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/FS-JEPI.pdf"
+    },
+    {
+      "제목": "J.P. Morgan JEPQ·분기 말 성과",
+      "URL": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/FS-JEPQ.pdf"
+    }
+  ],
+  "기준": "2025-09-30~2026-09-30 달러 NAV 총수익, 별도 가상 현금 시나리오",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "4:5 보조",
+      "원본": "EP045_월분배_ETF_네종_비교.png",
+      "파일": "그림/EP045_보조.png",
+      "대체텍스트": "2026년 9월 말까지 1년 | 달러 NAV 총수익",
+      "캡션": "2026년 9월 말 종료 1년. 모두 분배 재투자 NAV 총수익 기준이다.",
+      "위치": "5단계 공통 1년 실측 비교 뒤"
+    },
+    {
+      "종류": "16:9 가로 정보 만화",
+      "원본": "EP045_월분배ETF_1년성적표.png",
+      "파일": "시각자료/EP045_월분배ETF_1년성적표.png",
+      "대체텍스트": "천억이와 수건 친구가 공통 1년 달러 NAV 총수익률을 JEPI 6.62%, SPYI 14.62%, QQQI 17.97%, JEPQ 19.45%로 비교한다.",
+      "캡션": "2025년 9월 30일~2026년 9월 30일 공시 성과. 분배금 재투자·펀드 비용 반영, 개인 거래비용·세금·환전 제외.",
+      "위치": "5단계 공통 1년 실측 뒤"
+    }
+  ],
+  "원고": "EP045.md",
+  "팩트체크": "네 운용상품 동일 기간 NAV 총수익 대조",
+  "관련": [
+    "EP046",
+    "FAQ03"
+  ],
+  "분야": "월배당·커버드콜 검증",
+  "원고해시": "834d886e1a436c5f3816a32d7ffe57a77a9c3b836e1de02390cd6a569ce84cb1"
+}

@@ -1,0 +1,387 @@
+ffconcat version 1.0
+file 'f1-0-0-story.jpg'
+option framerate 24
+duration 12.84712500
+file 'f1-0-1-story.jpg'
+option framerate 24
+duration 3.95395850
+file 'f1-0-1-ref.jpg'
+option framerate 24
+duration 1.80129150
+file 'document-issuer.jpg'
+option framerate 24
+duration 16.00103190
+file 'f1-1-1-ref.jpg'
+option framerate 24
+duration 13.74667643
+file 'f1-2-0-story.jpg'
+option framerate 24
+duration 13.08424498
+file 'f1-2-1-story.jpg'
+option framerate 24
+duration 3.71683852
+file 'f1-2-1-ref.jpg'
+option framerate 24
+duration 10.52816650
+file 'f1-2-0-ref.jpg'
+option framerate 24
+duration 13.56672945
+file 'f1-2-1-ref.jpg'
+option framerate 24
+duration 3.27460388
+file 'f1-3-0-ref.jpg'
+option framerate 24
+duration 12.53091667
+file 'f1-3-1-ref.jpg'
+option framerate 24
+duration 11.73720833
+file 'f1-4-0-ref.jpg'
+option framerate 24
+duration 13.82000000
+file 'f1-4-1-ref.jpg'
+option framerate 24
+duration 4.51804167
+file 'f1-5-0-ref.jpg'
+option framerate 24
+duration 14.50212500
+file 'f1-5-1-ref.jpg'
+option framerate 24
+duration 13.48016667
+file 'f1-5-0-ref.jpg'
+option framerate 24
+duration 5.59429167
+file 'f1-6-0-ref.jpg'
+option framerate 24
+duration 1.00000000
+file 'document-issuer.jpg'
+option framerate 24
+duration 16.00103190
+file 'f1-6-1-ref.jpg'
+option framerate 24
+duration 11.43858348
+file 'f1-6-0-ref.jpg'
+option framerate 24
+duration 11.20684295
+file 'f1-7-0-ref.jpg'
+option framerate 24
+duration 14.28562500
+file 'f1-7-1-ref.jpg'
+option framerate 24
+duration 12.74483333
+file 'f1-7-0-ref.jpg'
+option framerate 24
+duration 11.99737500
+file 'f1-8-0-story.jpg'
+option framerate 24
+duration 13.95087500
+file 'f1-8-1-story.jpg'
+option framerate 24
+duration 2.85020850
+file 'f1-8-1-ref.jpg'
+option framerate 24
+duration 10.58924983
+file 'f1-8-0-ref.jpg'
+option framerate 24
+duration 17.85600000
+file 'f1-9-0-ref.jpg'
+option framerate 24
+duration 13.37670833
+file 'f1-9-1-ref.jpg'
+option framerate 24
+duration 16.80400806
+file 'f1-9-0-ref.jpg'
+option framerate 24
+duration 15.20007527
+file 'f2-0-0-story.jpg'
+option framerate 24
+duration 14.48987500
+file 'f2-0-1-story.jpg'
+option framerate 24
+duration 2.31120850
+file 'f2-0-1-ref.jpg'
+option framerate 24
+duration 7.45470817
+file 'f2-1-0-ref.jpg'
+option framerate 24
+duration 14.16258333
+file 'f2-1-1-ref.jpg'
+option framerate 24
+duration 14.46529167
+file 'f2-1-0-ref.jpg'
+option framerate 24
+duration 4.18320833
+file 'f2-2-0-ref.jpg'
+option framerate 24
+duration 12.49029167
+file 'f2-2-1-ref.jpg'
+option framerate 24
+duration 10.67204167
+file 'f2-3-0-ref.jpg'
+option framerate 24
+duration 1.00000000
+file 'document-ksd.jpg'
+option framerate 24
+duration 16.00103190
+file 'f2-3-1-ref.jpg'
+option framerate 24
+duration 6.88821810
+file 'f2-4-0-ref.jpg'
+option framerate 24
+duration 16.07471899
+file 'f2-4-1-ref.jpg'
+option framerate 24
+duration 12.48323934
+file 'f3-0-0-ref.jpg'
+option framerate 24
+duration 1.00000000
+file 'document-ksd.jpg'
+option framerate 24
+duration 16.00103190
+file 'f3-0-1-ref.jpg'
+option framerate 24
+duration 6.61121810
+file 'f3-1-0-ref.jpg'
+option framerate 24
+duration 18.52027123
+file 'f3-1-1-ref.jpg'
+option framerate 24
+duration 9.05131211
+file 'f3-2-0-ref.jpg'
+option framerate 24
+duration 13.65737121
+file 'f3-2-1-ref.jpg'
+option framerate 24
+duration 15.44125379
+file 'f3-3-0-ref.jpg'
+option framerate 24
+duration 15.05240152
+file 'f3-3-1-ref.jpg'
+option framerate 24
+duration 15.43843182
+file 'f3-4-0-story.jpg'
+option framerate 24
+duration 12.09457527
+file 'f3-4-1-story.jpg'
+option framerate 24
+duration 4.70650823
+file 'f3-4-1-ref.jpg'
+option framerate 24
+duration 10.60108317
+file 'f3-4-0-ref.jpg'
+option framerate 24
+duration 3.37220833
+file 'f4-0-0-story.jpg'
+option framerate 24
+duration 16.67725000
+file 'f4-0-1-story.jpg'
+option framerate 24
+duration 0.12383350
+file 'f4-0-1-ref.jpg'
+option framerate 24
+duration 14.91674983
+file 'f4-1-0-ref.jpg'
+option framerate 24
+duration 13.04938816
+file 'f4-1-1-ref.jpg'
+option framerate 24
+duration 16.37457018
+file 'f4-2-0-ref.jpg'
+option framerate 24
+duration 14.63600229
+file 'f4-2-1-ref.jpg'
+option framerate 24
+duration 15.77708104
+file 'f4-2-0-ref.jpg'
+option framerate 24
+duration 2.96850000
+file 'f4-3-0-ref.jpg'
+option framerate 24
+duration 14.22550000
+file 'f4-3-1-ref.jpg'
+option framerate 24
+duration 14.46812500
+file 'f4-4-0-ref.jpg'
+option framerate 24
+duration 14.09137990
+file 'f4-4-1-ref.jpg'
+option framerate 24
+duration 16.22895343
+file 'f5-0-0-story.jpg'
+option framerate 24
+duration 15.36921886
+file 'f5-0-1-story.jpg'
+option framerate 24
+duration 1.43186464
+file 'f5-0-1-ref.jpg'
+option framerate 24
+duration 12.02924983
+file 'f5-1-0-ref.jpg'
+option framerate 24
+duration 1.00000000
+file 'document-ksd.jpg'
+option framerate 24
+duration 16.00103190
+file 'f5-1-1-ref.jpg'
+option framerate 24
+duration 12.00455143
+file 'f5-1-0-ref.jpg'
+option framerate 24
+duration 5.00916667
+file 'f5-2-0-ref.jpg'
+option framerate 24
+duration 12.19350000
+file 'f5-2-1-ref.jpg'
+option framerate 24
+duration 15.57220833
+file 'f5-3-0-ref.jpg'
+option framerate 24
+duration 12.22220652
+file 'f5-3-1-ref.jpg'
+option framerate 24
+duration 13.82558514
+file 'f5-3-0-ref.jpg'
+option framerate 24
+duration 6.88283333
+file 'f5-4-0-ref.jpg'
+option framerate 24
+duration 12.96226375
+file 'f5-4-1-ref.jpg'
+option framerate 24
+duration 6.43731959
+file 'f6-0-0-ref.jpg'
+option framerate 24
+duration 3.00000000
+file 'document-issuer.jpg'
+option framerate 24
+duration 16.00103190
+file 'f6-0-1-ref.jpg'
+option framerate 24
+duration 14.32113476
+file 'f6-1-0-ref.jpg'
+option framerate 24
+duration 13.15566667
+file 'f6-1-1-ref.jpg'
+option framerate 24
+duration 15.07395833
+file 'f6-1-0-ref.jpg'
+option framerate 24
+duration 3.22258333
+file 'f6-2-0-ref.jpg'
+option framerate 24
+duration 13.02145490
+file 'f6-2-1-ref.jpg'
+option framerate 24
+duration 12.54548029
+file 'f6-2-0-ref.jpg'
+option framerate 24
+duration 8.43006481
+file 'f6-3-0-ref.jpg'
+option framerate 24
+duration 13.07113121
+file 'f6-3-1-ref.jpg'
+option framerate 24
+duration 16.14770213
+file 'f6-3-0-ref.jpg'
+option framerate 24
+duration 5.30395833
+file 'f6-4-0-story.jpg'
+option framerate 24
+duration 13.52166667
+file 'f6-4-1-story.jpg'
+option framerate 24
+duration 3.27941683
+file 'f6-4-1-ref.jpg'
+option framerate 24
+duration 10.37795817
+file 'f7-0-0-story.jpg'
+option framerate 24
+duration 14.46444592
+file 'f7-0-1-story.jpg'
+option framerate 24
+duration 2.33663758
+file 'f7-0-1-ref.jpg'
+option framerate 24
+duration 4.96887483
+file 'f7-1-0-ref.jpg'
+option framerate 24
+duration 15.02751606
+file 'f7-1-1-ref.jpg'
+option framerate 24
+duration 15.03394227
+file 'f7-2-0-ref.jpg'
+option framerate 24
+duration 15.56400000
+file 'f7-2-1-ref.jpg'
+option framerate 24
+duration 18.87916667
+file 'f7-3-0-ref.jpg'
+option framerate 24
+duration 12.93586032
+file 'f7-3-1-ref.jpg'
+option framerate 24
+duration 13.31697302
+file 'f7-3-0-ref.jpg'
+option framerate 24
+duration 9.07658333
+file 'f7-4-0-ref.jpg'
+option framerate 24
+duration 15.38220833
+file 'f7-4-1-ref.jpg'
+option framerate 24
+duration 4.42654167
+file 'f7-5-0-ref.jpg'
+option framerate 24
+duration 12.26566667
+file 'f7-5-1-ref.jpg'
+option framerate 24
+duration 12.19341667
+file 'f8-0-0-ref.jpg'
+option framerate 24
+duration 12.30683333
+file 'f8-0-1-ref.jpg'
+option framerate 24
+duration 7.32466667
+file 'f8-1-0-ref.jpg'
+option framerate 24
+duration 12.82212719
+file 'f8-1-1-ref.jpg'
+option framerate 24
+duration 16.30283114
+file 'f8-1-0-ref.jpg'
+option framerate 24
+duration 8.13575000
+file 'f8-2-0-ref.jpg'
+option framerate 24
+duration 14.11275000
+file 'f8-2-1-ref.jpg'
+option framerate 24
+duration 16.54645833
+file 'f8-3-0-ref.jpg'
+option framerate 24
+duration 12.99691667
+file 'f8-3-1-ref.jpg'
+option framerate 24
+duration 14.42379167
+file 'f8-3-0-ref.jpg'
+option framerate 24
+duration 1.91395833
+file 'f8-4-0-ref.jpg'
+option framerate 24
+duration 1.00000000
+file 'document-ksd.jpg'
+option framerate 24
+duration 16.00103190
+file 'f8-4-1-ref.jpg'
+option framerate 24
+duration 9.01838476
+file 'f8-5-0-story.jpg'
+option framerate 24
+duration 12.73907565
+file 'f8-5-1-story.jpg'
+option framerate 24
+duration 4.06200785
+file 'f8-5-1-ref.jpg'
+option framerate 24
+duration 5.33141650
+file 'f8-5-1-ref.jpg'
+option framerate 24

@@ -1,0 +1,21 @@
+{
+  "확인일": "2026-11-27",
+  "원문": [
+    {
+      "자료": "SEIBro 외화증권 종목별내역",
+      "URL": "https://seibro.or.kr/websquare/control.jsp?w2xPath=/IPORTAL/user/ovsSec/BIP_CNTS10013V.xml&menuNo=921",
+      "원본": "ksd-original.png",
+      "SHA256": "4d7fc1a6ac49501132a86de33a6f40939c44d82c8193ac26c102c844623a6829",
+      "관측": "미국, 순매수결제, 2026-10-01~10-31 선택 후 조회 전 조건 화면. 금액은 별도로 저장한 조회 결과 사용.",
+      "강조": "라디오 버튼과 날짜 범위의 실제 좌표에 원·화살표를 올렸다."
+    },
+    {
+      "자료": "Direxion Semiconductor ETFs Fact Sheet, p.1",
+      "URL": "https://www.direxion.com/uploads/SOXL-SOXS-Fact-Sheet.pdf",
+      "원본": "issuer.pdf",
+      "SHA256": "353362d12d14ff8e30505278c6271bee0eb935cd3b094404475c5986d974f8c0",
+      "강조": "PDF의 실제 Fund Symbol SOXL, Daily Target 300%를 확대했다."
+    }
+  ],
+  "원자료검산": "../EP061_결제검산.json"
+}

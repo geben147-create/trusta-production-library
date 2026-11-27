@@ -1,0 +1,38 @@
+{
+  "ID": "EP202",
+  "제목": "연 0.05% ETF가 더 쌀까? 석 달 뒤 쓸 1,000만 원으로 계산해 봤습니다",
+  "독자": "은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 연 운용비가 낮은 ETF가 석 달 비용도 적을까?",
+  "답": "가상에서는 왕복 호가 비용이 큰 A가 7,500원 더 들고, 1년이면 같아진다.",
+  "출처": [
+    {
+      "제목": "미국 SEC ETF 투자자 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24"
+    },
+    {
+      "제목": "미국 SEC 직원 호가 공시 안내",
+      "URL": "https://www.sec.gov/about/divisions-offices/division-investment-management/accounting-disclosure-information/adi-2025-15-website-posting-requirements"
+    }
+  ],
+  "기준": "가상 1,000만 원 및 3개월·1년·3년 비용 비교",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-f78df6b4-8c51-40c2-adcb-666aa9294905.png",
+      "파일": "시각자료/EP202_ETF호가비용_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "천억이와 동료가 석 달 뒤 집수리비를 준비한다. 가상 ETF A의 연 운용비는 0.05%, B는 0.15%이며 왕복 호가 차이를 포함한 석 달 비용은 각각 13,250원과 5,750원이다.",
+      "캡션": "가상 1,000만 원 기준. 연 운용비를 석 달로 환산하고 왕복 호가 차이를 더했습니다.",
+      "기간": "가상 3개월"
+    }
+  ],
+  "원고": "EP202.md",
+  "팩트체크": "SEC 설명, 가상 보유·왕복비용 조합 및 1.2배속 1031.089초 검산.",
+  "관련": [
+    "EP011",
+    "EP200"
+  ],
+  "분야": "은퇴 생활비와 ETF 비용",
+  "원고해시": "122ee2796e39e5de4ac28f08461e1a239791e19bc61ea160f1dc9b2c6da30cbe"
+}

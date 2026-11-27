@@ -1,0 +1,74 @@
+                                                                                                                                                                                                 Vanguard ®
+Vanguard S&P 500 ETF | VOO
+As of September 30, 2026
+
+
+Investment approach                                                                                                                      Investment focus
+                                                                                                                                                                           Investment style
+• Seeks to track the performance of the S&P 500 Index.                                                                                                                   Value   Blend Growth
+
+• Large-cap equity.                                                                                                                                              Large
+
+
+
+
+                                                                                                                                         Market capitalization
+• Employs a passively managed, full-replication strategy.
+• Fund remains fully invested.                                                                                                                                    Mid                                    Central tendency
+
+• Low expenses minimize net tracking error.                                                                                                                                                              Expected range
+                                                                                                                                                                 Small
+                                                                                                                                                                                                         of fund holdings
+
+About the benchmark
+• The S&P 500 Index is a widely recognized benchmark of U.S. stock
+  market performance that is dominated by the stocks of large U.S.                                                                       Quick facts
+  companies.
+                                                                                                                                         Benchmark                                                            S&P 500 Index
+• The index includes 500 leading companies in leading industries of the
+                                                                                                                                         Expense ratio1                                                              0.03%
+  U.S. economy.
+                                                                                                                                         Dividend schedule                                                        Quarterly
+                                                                                                                                         ETF total net assets                                             $1,032,260 million
+Performance history
+                                                                                                                                         Fund total net assets                                            $1,732,017 million
+Total returns 2 for period ended September 30, 2026
+                                                                                                                                         Inception date                                                         2010-09-07
+                                                     Year to                                                             Since
+VOO (Inception 2010-09-07)              Quarter        date        1 year     3 years     5 years     10 years       inception
+                                                                                                                                         Trading information
+Net asset value (NAV) return3              2.30%      12.72%      15.70%      22.85%      13.75%        15.29%         14.94%
+Market price return4                       2.31      12.74        15.78       22.88       13.76         15.30          14.94             Ticker symbol                                                                 VOO
+S&P 500 Index                              2.30      12.75        15.74       22.89       13.79         15.33          14.98             CUSIP number                                                           922908363
+The performance data shown represent past performance, which is not a guarantee of                                                       IIV (intra-day ticker)                                                     VOO.IV
+future results. Investment returns and principal value will fluctuate, so investors’ shares,                                             Index ticker (Bloomberg)                                                     SPTR
+when sold, may be worth more or less than their original cost. Current performance may be                                                Exchange                                                                NYSE Arca
+lower or higher than the performance data cited. For performance data current to the
+most recent month-end, visit our website at vanguard.com/performance. The performance of an
+index is not an exact representation of any particular investment, as you cannot invest directly in an                                   ETF attributes                                         S&P 500 ETF   S&P 500 Index
+index.
+                                                                                                                                         Number of stocks                                              505              503
+       Investment Products: Not FDIC Insured • No Bank Guarantee • May Lose Value                                                        Median market cap                                         $462.2B          $462.2B
+                                                                                                                                         Price/earnings ratio                                         24.7x            24.7x
+                                                                                                                                         Price/book ratio                                              5.3x             5.3x
+                                                                                                                                         Return on equity                                            29.0%            29.0%
+                                                                                                                                         Earnings growth rate                                        24.5%            24.5%
+                                                                                                                                         Turnover rate5                                                 2.4                 —
+                                                                                                                                         Standard deviation 6                                       12.43%           12.42%
+
+
+
+
+1. As reported in the most recent prospectus. A fund’s current expense ratio may be lower or higher than the figure reported in the prospectus.
+2. Figures for periods of less than one year are cumulative returns. All other figures represent average annual returns. Fund performance figures assume the reinvestment of dividends and capital gains distributions;
+  the figures are pre-tax and net of expenses. The above widely used comparative index represents unmanaged or average returns on various financial assets that can be compared with the fund’s total returns for
+  the purpose of measuring relative performance.
+3. As of 4 p.m., Eastern time, when the regular trading session of the New York Stock Exchange typically closes.
+4. Effective July 15, 2024, the market price returns are calculated using the official closing price as reported by the ETF’s primary exchange. Prior to July 15, 2024, the market price returns were calculated using the
+  midpoint between the bid and ask prices as of the closing time of the New York Stock Exchange (typically 4 p.m., Eastern time). The returns shown do not represent the returns you would receive if you traded
+  shares at other times.
+5. For most recent fiscal year. Turnover rate excludes the value of portfolio securities received or delivered as a result of in-kind purchases or redemptions of the fund’s capital shares, including Vanguard ETF Creation
+  Units.
+6. A measure of the volatility of a fund—based on the fund’s last three years of monthly returns—used to indicate the dispersion of past returns. A higher standard deviation means a greater potential for volatility.
+  For funds with less than 36 months of performance history, standard deviation is not calculated.
+

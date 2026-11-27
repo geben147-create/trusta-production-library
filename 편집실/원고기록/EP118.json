@@ -1,0 +1,50 @@
+{
+  "ID": "EP118",
+  "제목": "국채 ETF에 적힌 날짜, 무슨 뜻일까?",
+  "독자": "지출 일정에 국채 ETF를 맞추려는 독자",
+  "주요질문": "편집부가 만든 질문. 기간형과 잔존 만기 구간형 ETF의 날짜가 각각 무엇을 뜻할까?",
+  "답": "펀드 종료 예정일과 편입 채권 만기 범위는 각각 다르다.",
+  "출처": [
+    {
+      "제목": "IBTH 투자설명서",
+      "URL": "https://www.ishares.com/us/literature/summary-prospectus/sp-ishares-ibonds-dec-2027-term-treasury-etf-10-31.pdf"
+    },
+    {
+      "제목": "SHY 공식 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/shy-ishares-1-3-year-treasury-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "IBTH 공식 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/ibth-ishares-ibonds-dec-2027-term-treasury-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "연준 H.10",
+      "URL": "https://www.federalreserve.gov/releases/h10/Hist/dat00_ko.htm"
+    },
+    {
+      "제목": "미국 재무부 국채 안내",
+      "URL": "https://www.treasurydirect.gov/research-center/history-of-marketable-securities/notes/"
+    }
+  ],
+  "기준": "2021~2025년 NAV와 H.10, IBTH 종료 예정 및 SHY 잔존 만기",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-e5c6e266-2bf1-4bec-94bb-91967dd7ecf5.png",
+      "파일": "시각자료/EP118_국채만기_가로.png",
+      "위치": "도입 답변 뒤, 자료 Q&A 위",
+      "대체텍스트": "두 캐릭터가 IBTH의 종료 예정일과 SHY의 편입 만기 범위, 기말 원화 평가를 비교한다",
+      "캡션": "1,000만 원 가상 투자, 공시 성과와 환율 적용.",
+      "기간": "2020년 말~2025년 말"
+    }
+  ],
+  "원고": "EP118.md",
+  "팩트체크": "투자설명서·운용사 NAV·미 재무부·H.10 확인, 5년 복리와 반례 검산. IBTH 실제 청산금 미확정.",
+  "관련": [
+    "EP104",
+    "EP106"
+  ],
+  "분야": "미국 국채 ETF의 종료와 편입 만기",
+  "원고해시": "0143fa4938794cec97e170948a3b69074b69810d16aa88be6c7fb6ec27121593"
+}

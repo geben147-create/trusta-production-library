@@ -1,0 +1,42 @@
+{
+  "ID": "EP059",
+  "제목": "생활비 때문에 ETF를 팔았다면, 다음 매도 전에 확인할 다섯 가지",
+  "독자": "퇴직 뒤 생활비 인출과 ETF 매매를 함께 관리하는 투자자",
+  "주요질문": "예정된 생활비를 마련하려고 매도했을 때 무엇을 다음 주문 전에 복기할까?",
+  "답": "생활비를 걸겠다는 규칙 위반과 우연히 오른 결과는 다른 칸에 적어야 다음 거래를 평가할 수 있다.",
+  "출처": [
+    {
+      "제목": "Barber·Odean의 가계 거래 연구",
+      "URL": "https://faculty.haas.berkeley.edu/odean/papers%20current%20versions/individual_investor_performance_final.pdf"
+    },
+    {
+      "제목": "FINRA 분산투자 안내",
+      "URL": "https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification"
+    },
+    {
+      "제목": "미 SEC 레버리지·인버스 ETF 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 가로 정보 만화",
+      "원본": "EP059_보일러영수증과_매도점검.png",
+      "파일": "시각자료/EP059_보일러영수증과_매도점검.png",
+      "위치": "다섯 번째 확인 절 끝",
+      "대체텍스트": "천억이와 수건 친구가 급한 생활비 때문에 ETF를 팔기 전에 확인할 다섯 가지를 보여준다. 왕복 비용이 회당 0.2%인 가상 계산에서 100만 원은 열 번 뒤 약 980,179원이다.",
+      "캡션": "원화 100만 원을 직전 잔액 기준으로 열 번 거래한 가상 예시. 가격 변화·세금·분배 제외."
+    }
+  ],
+  "원고": "EP059.md",
+  "팩트체크": "원리·예시 대조 / 개별 독자 조건 별도",
+  "관련": [
+    "EP057"
+  ],
+  "분야": "레버리지·폭락·투자 실패",
+  "원고해시": "1bc7ba920623aa93e63919c26c0868220a8b1244089495da81c136f1d9388528",
+  "장문진행": "순수 내레이션 63행으로 갱신. 영상용 사례와 낭독 분량 추가 보강 중.",
+  "음성상태": "대본 추가 보강 뒤 지정 Qwen 합성"
+}

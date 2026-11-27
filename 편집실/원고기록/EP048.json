@@ -1,0 +1,53 @@
+{
+  "ID": "EP048",
+  "제목": "배당성장 vs 고배당, 같은 100만 원을 넣으면 얼마가 남았을까?",
+  "독자": "부모님과 ETF 분배금으로 생활비를 계획하는 독자",
+  "주요질문": "지금 더 많이 주는 ETF가 같은 원금으로 더 많이 남겨 줄까?",
+  "답": "지급액·주당 성장·총수익·필요한 날짜를 각각 비교한다. 실측 1년과 3년의 기말 순서가 달랐다.",
+  "출처": [
+    {
+      "제목": "Vanguard VIG 2025년 말 공식 자료",
+      "URL": "https://fund-docs.vanguard.com/FA0920_MX.pdf?trk=test"
+    },
+    {
+      "제목": "Vanguard VYM 2025년 말 공식 자료",
+      "URL": "https://fund-docs.vanguard.com/FA0923_MX.pdf?cmpgn=SM0922MXTLLKN0009ES"
+    },
+    {
+      "제목": "S&P 미국 배당성장 지수 선정 규칙",
+      "URL": "https://www.spglobal.com/spdji/en/indices/dividends-factors/sp-us-dividend-growers-index/"
+    },
+    {
+      "제목": "Vanguard ETF 목록 · 30일 수익률",
+      "URL": "https://investor.vanguard.com/investment-products/list/etfs?filters=open&riskfilter=4"
+    },
+    {
+      "제목": "Vanguard 수익률 지표 설명",
+      "URL": "https://investor.vanguard.com/investor-resources-education/portfolio-management/performance-details"
+    },
+    {
+      "제목": "연준 H.10 원/달러 관측 환율",
+      "URL": "https://fred.stlouisfed.org/series/DEXKOUS"
+    }
+  ],
+  "기준": "2025년 말 NAV 총수익·연준 환율, 2026년 10월 말 30일 수익률",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "EP048_배당성장_고배당_가로.png",
+      "파일": "시각자료/EP048_배당성장_고배당_가로.png",
+      "위치": "공식 1년·3년 비교 뒤",
+      "대체텍스트": "천억이와 수건 친구가 같은 100만 원의 VIG와 VYM 1년 및 3년 기말 원화 금액을 가리킨다",
+      "캡션": "2025년 말까지 VIG와 VYM의 NAV 총수익과 관측 환율로 계산한 원화 기말 금액. 각 100만 원, 분배 재투자, 개인 세전."
+    }
+  ],
+  "원고": "EP048.md",
+  "팩트체크": "Vanguard 동기준 NAV·업종, S&P 선정 규칙 및 연준 환율 확인. 원화 복리 환산, 가상 누적 지급 산술 검산.",
+  "관련": [
+    "EP046",
+    "EP042"
+  ],
+  "분야": "배당성장·고배당 ETF",
+  "원고해시": "fe0f93435b6ff24cead792f816b3ec6d6f1585304aeeb585e684c2e36f8f0bfb"
+}

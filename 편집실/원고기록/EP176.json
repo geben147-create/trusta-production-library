@@ -1,0 +1,46 @@
+{
+  "ID": "EP176",
+  "제목": "같은 미국 소형주에 1,000만 원씩, 왜 5년 뒤 236만 원 차이가 났을까?",
+  "독자": "분배금을 생활비에 쓰려는 은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 미국 소형주와 소형 가치주 ETF의 5년 체감 잔액은 얼마나 달랐을까?",
+  "답": "같은 조건의 기말 가상 원화 장부에 약 236만 원 차이가 났으며 마지막 한 해는 순서가 반대였다.",
+  "출처": [
+    {
+      "제목": "iShares IWM 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/iwm-ishares-russell-2000-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "iShares IWN 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/iwn-ishares-russell-2000-value-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "FTSE Russell 스타일 지수 방법",
+      "URL": "https://www.lseg.com/en/ftse-russell/indices/russell-us-style"
+    },
+    {
+      "제목": "미 연준 원·달러 참조 환율",
+      "URL": "https://fred.stlouisfed.org/series/DEXKOUS"
+    }
+  ],
+  "기준": "iShares 2021~2025 달력연도 NAV 총수익과 FRED 양 끝 환율",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-01f367a2-8acc-4ff8-a43d-ebb2d62c356f.png",
+      "파일": "시각자료/EP176_미국소형주가치주_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "천억이와 동료가 각 1,000만 원의 원화 기말 평가액을 비교한다. IWM 17,766,995원, IWN 20,124,199원, 차이 2,357,204원.",
+      "캡션": "2020년 말~2025년 말 가상 원화 장부. 공시 기준가 총수익의 분배 재투자를 적용하고 개인 세금·비용은 제외했습니다.",
+      "기간": "2020년 말~2025년 말"
+    }
+  ],
+  "원고": "EP176.md",
+  "팩트체크": "공시 5개 연도 연쇄 곱, 원화 참조 환율, 2022년 인출 사례 및 1.2배속 1029.850초 검산.",
+  "관련": [
+    "EP014",
+    "EP113"
+  ],
+  "분야": "퇴직금과 미국 소형주 스타일 비교",
+  "원고해시": "b5a025489011a2d221c85ea59081ede3171cb71907cd469bfaacf899a294d807"
+}

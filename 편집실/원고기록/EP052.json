@@ -1,0 +1,45 @@
+{
+  "ID": "EP052",
+  "제목": "TQQQ와 SOXL, 같은 3배인데 손실 폭은 왜 달랐을까?",
+  "독자": "같은 3배 레버리지 ETF를 비교하는 투자 입문자",
+  "주요질문": "같은 일일 배수인데 TQQQ와 SOXL의 위험과 성과는 왜 다를까?",
+  "답": "기초지수, 일일 누적 경로, 비용, 업종 노출을 확인한다.",
+  "출처": [
+    {
+      "제목": "ProShares TQQQ 상품 목표·공식 총수익",
+      "URL": "https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq"
+    },
+    {
+      "제목": "Direxion SOXL 상품 목표·공식 총수익",
+      "URL": "https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs"
+    },
+    {
+      "제목": "SEC 레버리지·인버스 ETF 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec"
+    },
+    {
+      "제목": "연준 H.10 원/달러 관측 환율",
+      "URL": "https://fred.stlouisfed.org/series/DEXKOUS"
+    }
+  ],
+  "기준": "운용사 2026년 10월 말 세전 달러 NAV 총수익 및 연준 환율",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "EP052_일일3배_가로.png",
+      "파일": "시각자료/EP052_일일3배_가로.png",
+      "위치": "2026년 10월 하락 비교 뒤",
+      "대체텍스트": "천억이와 수건 친구가 TQQQ와 SOXL의 기초지수 및 2026년 10월 달러 기준가격 총수익을 비교한다",
+      "캡션": "2026년 10월 달러 NAV 총수익. 일일 3배 목표와 월간 실측을 구별한다."
+    }
+  ],
+  "원고": "EP052.md",
+  "팩트체크": "운용사 상품 목표, 동일 관측일 NAV 총수익 및 연준 환율과 원화 복리 계산 확인. 일별 최대낙폭은 별도 확인 필요.",
+  "관련": [
+    "EP050",
+    "EP044"
+  ],
+  "분야": "일일 레버리지 ETF",
+  "원고해시": "c832f8c6f63c377a3982c1e095fe086c257f0c11a3fd98be6a0236740cfe98b2"
+}

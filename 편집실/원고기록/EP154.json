@@ -1,0 +1,46 @@
+{
+  "ID": "EP154",
+  "제목": "은퇴하고 매달 받을 돈, ETF가 18% 빠져도 괜찮을까?",
+  "독자": "분배금을 생활비에 쓰려는 은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 병원비 낼 날 ETF가 내렸다면 얼마를 팔아야 할까?",
+  "답": "2022년 달러 총수익은 두 비교 ETF가 약 18% 하락. 납부일에 쓸 현금을 별도로 확인한다.",
+  "출처": [
+    {
+      "제목": "iShares PFF 상품 자료",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/pff-ishares-preferred-and-income-securities-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "iShares LQD 상품 자료",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/lqd-ishares-iboxx-investment-grade-corporate-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "SEC PFF 요약 투자설명서",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526327904/d45841d497k.htm"
+    },
+    {
+      "제목": "미 연준 원·달러 참조 환율",
+      "URL": "https://fred.stlouisfed.org/series/DEXKOUS"
+    }
+  ],
+  "기준": "2020-12-31~2025-12-31 iShares 기준가 총수익과 연준 환율",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-32c13f1c-02af-4538-bdbe-61e075a681c6.png",
+      "파일": "시각자료/EP154_은퇴병원비_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "천억이와 동료가 병원비 청구서와 달력을 확인한다. 2022년 달러 총수익 PFF −18.37%, LQD −18.01%.",
+      "캡션": "iShares 기준가 총수익으로 비교한 2022년 달러 기준 성과입니다.",
+      "기간": "2022년 달력연도"
+    }
+  ],
+  "원고": "EP154.md",
+  "팩트체크": "양 상품 연간 총수익 연쇄 곱 및 양 끝 환율 검산. 1.2배속 1022.483초.",
+  "관련": [
+    "EP152",
+    "FAQ04"
+  ],
+  "분야": "은퇴 생활비와 우선주·회사채 ETF",
+  "원고해시": "d607b8784921e43547d0251564c684c557897a8dfddb1bfcc758e60cade93d90"
+}

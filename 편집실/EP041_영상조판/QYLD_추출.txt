@@ -1,0 +1,139 @@
+                                                                                                                                     ETF Category: Equity - Income -
+
+QYLD
+                                                                Global X Nasdaq 100® Covered
+                                                                                                                                     Covered Call
+                                                                Call ETF                                                             As of 9/30/2026
+
+
+
+REASONS TO CONSIDER                                                                                                                  KEY INFORMATION
+                                                                                                                                     Inception Date                                      12/11/2013(2)
+                                                                                                                                                                           Cboe Nasdaq-100® BuyWrite
+                   High Income Potential                                                                                             Underlying Index
+                                                                                                                                                                                            V2 Index
+                   QYLD seeks to generate income through covered call writing, which historically produces higher
+                   yields in periods of volatility.(1)                                                                               Number of Holdings                                           102
+                                                                                                                                     Assets Under Management                            $8,478.91 mil
+                                                                                                                                     Total Expense Ratio                                       0.60%
+                                                                                                                                     30-Day SEC Yield                                          0.00%
+                   Monthly Distributions                                                                                             12-Month Trailing
+                                                                                                                                                                                                      12.11%
+                   QYLD has made monthly distributions 12 years running.                                                             Distribution (%)(3)
+                                                                                                                                     Distribution Frequency                                       Monthly
+
+                                                                                                                                     TRADING DETAILS
+                   Efficient Options Execution                                                                                       Ticker                                                          QYLD
+                   QYLD writes call options on the Nasdaq-100 Index, saving investors the time and potential expense                 CUSIP                                                      37954Y483
+                   of doing so individually.                                                                                         Exchange                                                     NASDAQ
+                                                                                                                                     Bloomberg IOPV Ticker                                         QYLDIV
+                                                                                                                                     Index Ticker                                                    BXNT
+
+
+
+
+PERFORMANCE (%)                                                                              TOP 10 HOLDINGS (%) Holdings exclude cash & are Subject to Change.
+                                                                           Since
+           1M         YTD        1Y        3Y           5Y        10Y
+                                                                           Inception         Nvidia Corp                                 8.70%          Amazon.com Inc                                4.25%
+NAV        2.45%      14.86%     22.94%    16.79%       9.33%     10.03%   9.01%             Apple Inc                                   7.68%          Meta Platforms Inc                            3.41%
+Market                                                                                       Microsoft Corp                              6.02%          Alphabet Inc-cl A                             3.20%
+           2.44%      14.86%     22.94%    16.81%       9.27%     10.02%   9.00%
+Price
+                                                                                             Micron Technology Inc                       5.25%          Alphabet Inc-cl C                             2.96%
+Hybrid
+           2.51%      15.38%     23.77%    17.97%       10.20%    11.08%   9.96%             Advanced Micro Devices                      4.36%          Tesla Inc                                     2.94%
+Index(4)
+The performance data quoted represents past performance and does not guarantee future results. Investment return and principal value of an investment will fluctuate so that an
+investor’s shares, when sold or redeemed, may be worth more or less than their original cost. Current performance may be higher or lower than the performance quoted. High short-
+term performance, when observed, is unusual and investors should not expect such performance to be repeated. Returns for periods greater than one year are annualized.
+For performance data current to the most recent month end, please call 1-888-493-8631, or visit www.globalxetfs.com.
+
+SECTOR BREAKDOWN (%)                                                                         PREVIOUS 12 MONTH DISTRIBUTIONS
+                                            Information Technology                 60.54%     $0.25
+                                            Communication Services                 14.58%
+                                                                                              $0.20
+                                            Consumer Discretionary                 10.08%
+                                            Consumer Staples                        5.53%      $0.15
+                                            Health Care                             3.60%
+                                                                                               $0.10
+                                            Industrials                             3.12%
+                                            Utilities                               1.01%     $0.05
+
+                                            Materials                               0.91%
+                                                                                              $0.00
+                                            Energy                                  0.45%                t-2     v-2     c-2    n-      b-          6        6        6   n-      l-2      -26    p-
+                                                                                                            5       5       5     26      26    r-2      r-2      y-2        26      6              26
+                                                                                                       Oc       No      De      Ja     Fe      Ma       Ap       Ma       Ju      Ju     Au g    Se
+                                            Financials                              0.19%
+
+All Sector, Industry and Geographic breakdowns, where provided, are based on equity
+positions held by the ETF and exclude cash, currencies, and other holdings.
+
+
+
+
+                                                                                                                                     605 THIRD AVENUE                          1 (888) 493-8631
+                                                                                                                                     NEW YORK, NY 10158                        GLOBALXETFS.COM
+                                                                                                                                                                               @GLOBALXETFS
+QYLD                                                    Global X Nasdaq 100® Covered Call ETF                                                                                           As of 9/30/2026
+
+
+
+
+DEFINITIONS
+
+Cboe Nasdaq-100® BuyWrite V2 Index                            The Cboe NASDAQ-100® BuyWrite Index (“BXN Index”) is a benchmark index that measures the performance of a theoretical portfolio that
+                                                              holds a portfolio of the stocks included in the NASDAQ-100® Index (“NASDAQ-100® Index”), and “writes” (or sells) a succession of one-month
+                                                              at-the-money NASDAQ-100® Index covered call options. The Cboe NASDAQ-100® BuyWrite V2 Index (“BXNT Index”) replicates the
+                                                              methodology used to calculate the BXN Index, with one exception: the written NASDAQ-100® Index covered call options are held until one
+                                                              day prior to the expiration date (i.e., generally the Thursday preceding the Third Friday of the month) and are liquidated at a volume-
+                                                              weighted average price determined at the close.
+
+Nasdaq 100® Index                                             The Nasdaq-100® Index includes 100 of the largest domestic and international non-financial companies listed on The Nasdaq Stock Market
+                                                              based on market capitalization. The Index reflects companies across major industry groups including computer hardware and software,
+                                                              telecommunications, retail/wholesale trade and biotechnology. It does not contain securities of financial companies including investment
+                                                              companies.
+
+12-Month Trailing Distribution (%)                            The distribution as a percentage an investor would have received if they had held the fund over the last twelve months, assuming the most
+                                                              recent NAV. The 12-Month Trailing Distribution (%) is calculated by summing any income, capital gains and return of capital distributions over
+                                                              the past twelve months and dividing by the sum of the most recent NAV and any capital gain distributions made over the same period. A
+                                                              portion of the distribution is estimated to include a return of capital. For information on the breakdown of the most recent distributions,
+                                                              please see the 19a Notice. These do not imply rates for any future distributions.
+
+
+
+
+(1) Covered call writing can limit the upside potential of the underlying security.
+(2) The Fund operated as the Horizons NASDAQ 100® Covered Call ETF (the “Predecessor Fund”), a series of Horizons ETF Trust I, prior to the Fund’s acquisition of the assets and assumption of the liabilities of the Predecessor Fund on December
+ 24, 2018 (the “Reorganization”).
+(3) As of 9/21/26, QYLD’s Return of Capital component of the current distribution is 98.76%.
+(4) On 10/14/2015, the Advisor changed the Fund’s primary benchmark from the BXN Index to BXNT Index in connection with a change in the Fund’s principal strategies. The Advisor believes the BXNT Index is a better measure of the Fund’s
+performance. Returns reflect a blended benchmark.
+
+Investing involves risk, including the possible loss of principal. Concentration in a particular industry or sector will subject QYLD to loss due to adverse occurrences that may affect that
+industry or sector. Investors in QYLD should be willing to accept a high degree of volatility in the price of the fund’s shares and the possibility of significant losses.
+QYLD engages in options trading. An option is a contract sold by one party to another that gives the buyer the right, but not the obligation, to buy (call) or sell (put) a stock at an agreed
+upon price within a certain period or on a specific date. A covered call option involves holding a long position in a particular asset, in this case U.S. common equities, and writing a call
+option on that same asset with the goal of realizing additional income from the option premium. QYLD writes covered call index options on the Nasdaq 100 Index. By selling covered call
+options, the fund limits its opportunity to profit from an increase in the price of the underlying index above the exercise price, but continues to bear the risk of a decline in the index. A
+liquid market may not exist for options held by the fund. While the fund receives premiums for writing the call options, the price it realizes from the exercise of an option could be
+substantially below the indices current market price. QYLD is non-diversified. The information provided is not intended for trading purposes, and should not be considered investment
+advice.
+This material must be preceded or accompanied by the current fund prospectus. Read it carefully before investing.
+Shares of ETFs are bought and sold at market price (not NAV) and are not individually redeemed from the Fund. Brokerage commissions will reduce returns. Beginning October 15,
+2020, market price returns are based on the official closing price of an ETF share or, if the official closing price isn’t available, the midpoint between the national best bid and national
+best offer (“NBBO”) as of the time the ETF calculates current NAV per share. Prior to October 15, 2020, market price returns were based on the midpoint between the Bid and Ask price.
+NAVs are calculated using prices as of 4:00 PM Eastern Time. The returns shown do not represent the returns you would receive if you traded shares at other times. Indices are
+unmanaged and do not include the effect of fees, expenses or sales charges. One cannot invest directly in an index.
+Global X Management Company LLC serves as an advisor to the Global X Funds. The Funds are distributed by SEI Investments Distribution Co. (SIDCO, 1 Freedom Valley Drive, Oaks, PA,
+19456), which is not affiliated with Global X Management Company LLC or Mirae Asset Global Investments. Global X Funds are not sponsored, endorsed, issued, sold or promoted by
+Nasdaq or Cboe, nor do these entities make any representations regarding the advisability of investing in the Global X Funds. Neither SIDCO, Global X nor Mirae Asset Global
+Investments are affiliated with these entities.
+
+
+
+                                                                                                                                                                        605 THIRD AVENUE                            1 (888) 493-8631
+                                                                                                                                                                        NEW YORK, NY 10158                          GLOBALXETFS.COM
+                                                                                                                                                                                                                    @GLOBALXETFS
+

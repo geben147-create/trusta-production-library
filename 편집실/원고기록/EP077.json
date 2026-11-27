@@ -1,0 +1,31 @@
+{
+  "ID": "EP077",
+  "제목": "회사의 가이던스가 좋아졌다는 말, 범위와 중간값부터 읽기",
+  "독자": "실적 발표 자료를 읽는 독자",
+  "주요질문": "회사가 다음 분기 전망을 올렸다는데 중간값은 그대로다. 틀린 보도일까?",
+  "답": "발표 전 최신 전망이 어느 판인지와 지표 정의가 같은지부터 본다.",
+  "출처": [
+    {
+      "제목": "엔비디아 2025 회계연도 실적 발표",
+      "URL": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025"
+    },
+    {
+      "제목": "엔비디아 2025 회계연도 10-K 원문",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm"
+    },
+    {
+      "제목": "미 SEC 사업보고서 읽는 법",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [],
+  "원고": "EP077.md",
+  "팩트체크": "원리·예시 대조 / 개별 독자 조건 별도",
+  "관련": [
+    "EP079"
+  ],
+  "분야": "기업 실적·재무 분석",
+  "원고해시": "f656d126129933b9b82b797b36a6981ecde3cc535084e891d3387a37033045bd"
+}

@@ -1,0 +1,42 @@
+{
+  "ID": "EP180",
+  "제목": "6% 싸게 산 펀드, 팔 때도 그 차이가 내 돈이 될까?",
+  "독자": "은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 할인에 사면 그만큼 수익이 확정될까?",
+  "답": "시장 체결가, 순자산가치, 분배금의 변화를 따로 확인한다.",
+  "출처": [
+    {
+      "제목": "미 SEC 상장 폐쇄형 펀드 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/investor-bulletin-publicly-traded-closed-end-funds"
+    },
+    {
+      "제목": "SEC 공시 BlackRock 2025년 주주 연차보고서",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1768666/000119312526093603/d12673dncsr.htm"
+    },
+    {
+      "제목": "SEC 공시 CII 투자설명 보충서",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1278895/000119312526318206/d98374d424b2.htm"
+    }
+  ],
+  "기준": "CII 2024·2025년 말 공시",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-e005072b-9586-4e8b-b5c5-d25caf4c9db9.png",
+      "파일": "시각자료/EP180_폐쇄형펀드할인_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "천억이와 동료가 CII의 2024년 말 할인 6.21%와 2025년 말 할증 3.32%를 비교한다.",
+      "캡션": "BlackRock 연차보고서에 나온 같은 날의 시장 종가와 주당 순자산가치로 계산했습니다.",
+      "기간": "2024년 말과 2025년 말"
+    }
+  ],
+  "원고": "EP180.md",
+  "팩트체크": "공시 가격과 NAV 대조. 1.2배속 1023.313초 및 낭독 해시 확인.",
+  "관련": [
+    "EP092",
+    "EP042"
+  ],
+  "분야": "은퇴 생활비와 상장 폐쇄형 펀드",
+  "원고해시": "4af8f0e8fcd710a8a3435badb2be4bc08206d0302bad72582eea112206dc9425"
+}

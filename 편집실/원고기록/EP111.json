@@ -1,0 +1,38 @@
+{
+  "ID": "EP111",
+  "제목": "ETF 갈아타기 손익분기점, 연 0.4%p를 아끼려면 몇 년이 필요할까?",
+  "독자": "같은 노출의 ETF로 갈아탈지 점검하는 독자",
+  "주요질문": "일회성 교체 비용을 연간 비용 차이로 회수할 때까지 얼마나 걸릴까?",
+  "답": "2,000만 원 가상 장부에서 18만 원 비용은 3년 말, 3만 원은 1년 말에 역전한다.",
+  "출처": [
+    {
+      "제목": "미국 SEC · How Fees and Expenses Affect Your Investment Portfolio",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated"
+    },
+    {
+      "제목": "미국 SEC · Mutual Fund and ETF Fees and Expenses",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin"
+    }
+  ],
+  "기준": "오늘부터 1~5년·원화·가상·분배금 재투자",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 가로 정보 만화",
+      "원본": "교체비_달력.png",
+      "파일": "영상/EP111/교체비_달력.png",
+      "대체텍스트": "수건 친구와 천억이가 교체 비용 18만 원을 치른 뒤의 잔액 차이를 살핀다. 첫해와 둘째 해는 유지가, 셋째 해는 교체가 앞선다.",
+      "캡션": "원화 가상 비교. 그래프의 0원은 두 잔액이 같다는 뜻이다.",
+      "위치": "1~5년 장부 비교 뒤"
+    }
+  ],
+  "원고": "EP111.md",
+  "팩트체크": "미국 SEC 원문 2건 및 Decimal 계산 확인. 개별 상품·세율 미적용.",
+  "분야": "ETF 비용·교체",
+  "관련": [
+    "EP007",
+    "EP068"
+  ],
+  "장문진행": "8장 본문과 가로 만화 준비. 낭독 확장·지정 음성 실측 대기.",
+  "원고해시": "cf3a3a39b1e9433454a14e8953ca7a6c227d815ce9d84da2b22f389544fb713c"
+}

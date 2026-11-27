@@ -1,0 +1,50 @@
+{
+  "ID": "EP122",
+  "제목": "국채·회사채, 1,000만 원의 차이는?",
+  "독자": "단기 국채와 회사채의 수익률 및 신용 위험을 비교하는 독자",
+  "주요질문": "편집부가 만든 질문. 같은 천만 원의 5년 단기 채권 ETF 원화 평가액은?",
+  "답": "실측 공시를 적용하면 SHYG가 앞섰지만 2022년에는 셋 다 달러 손실이었다.",
+  "출처": [
+    {
+      "제목": "SHY 공식 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/shy-ishares-1-3-year-treasury-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "IGSB 공식 자료",
+      "URL": "https://www.ishares.com/us/products/239451/ishares-1-5-year-investment-grade-corporate-bond-etf-igsb"
+    },
+    {
+      "제목": "SHYG 공식 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/shyg-ishares-0-5-year-high-yield-corporate-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "연준 H.10",
+      "URL": "https://www.federalreserve.gov/releases/h10/Hist/dat00_ko.htm"
+    },
+    {
+      "제목": "미 SEC 고수익 회사채 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are-0"
+    }
+  ],
+  "기준": "2021~2025년 세 상품 USD NAV 총수익과 H.10 환율",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-8e523064-79be-4b3b-ad73-1e6d86f28d80.png",
+      "파일": "시각자료/EP122_채권신용_가로.png",
+      "위치": "도입 답변 뒤, 자료 Q&A 위",
+      "대체텍스트": "두 캐릭터가 세 가지 채권 ETF의 원화 평가액과 2022년 달러 손실을 설명한다",
+      "캡션": "가상 원금과 공시 성과 적용. 개인 세금·거래비용 제외.",
+      "기간": "2020년 말~2025년 말"
+    }
+  ],
+  "원고": "EP122.md",
+  "팩트체크": "운용사 공시·연준 H.10·SEC 신용 위험 근거. 달러 복리와 원화 차이 검산.",
+  "관련": [
+    "EP118",
+    "EP104"
+  ],
+  "분야": "국채·투자등급·고수익 회사채 ETF 성과 비교",
+  "원고해시": "9593671ad912e62b1796942acdc9733f5c02ba3a6377d1f9072b502d2de0b89b"
+}

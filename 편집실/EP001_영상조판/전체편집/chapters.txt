@@ -1,0 +1,43 @@
+;FFMETADATA1
+title=ETF 십만 원과 세 접시
+artist=TRUSTA 투자연구소
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=137986
+title=접시는 셋인데 동전은 열 개
+[CHAPTER]
+TIMEBASE=1/1000
+START=137986
+END=283385
+title=한 칸을 치우니 비중도 움직였다
+[CHAPTER]
+TIMEBASE=1/1000
+START=283385
+END=477396
+title=접시 밑에 숨겨 둔 주식 수
+[CHAPTER]
+TIMEBASE=1/1000
+START=477396
+END=667737
+title=세 회사가 동시에 미끄러지는 날
+[CHAPTER]
+TIMEBASE=1/1000
+START=667737
+END=868849
+title=취급 주의, 같은 오십 퍼센트라도
+[CHAPTER]
+TIMEBASE=1/1000
+START=868849
+END=1098365
+title=실제 팩트시트에서 빨간 연필이 멈춘 곳
+[CHAPTER]
+TIMEBASE=1/1000
+START=1098365
+END=1304969
+title=어제 사진을 오늘 식탁에 대 봤더니
+[CHAPTER]
+TIMEBASE=1/1000
+START=1304969
+END=1506734
+title=빈 접시 하나를 들고 집에 간 이유

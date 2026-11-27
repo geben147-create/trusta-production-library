@@ -1,0 +1,41 @@
+{
+  "ID": "EP004",
+  "제목": "ETF 이름 읽는 순서, 원화로 사는 미국 지수 ETF에 왜 (H)가 붙을까?",
+  "독자": "긴 국내 ETF 이름을 해석하는 독자",
+  "주요질문": "‘미국30년국채타겟커버드콜(합성 H)’에서 내가 사는 것은 달러일까, 채권일까, 옵션일까?",
+  "답": "지급 주기와 지급액 산정은 별도 조항이다. 실제 분배 공지에서 좌당 금액을 확인한다.",
+  "출처": [
+    {
+      "제목": "미 SEC의 ETF 구조 안내",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-2"
+    },
+    {
+      "제목": "삼성자산운용 2026년 10월 13일 분배 공지",
+      "URL": "https://www.samsungfund.com/etf/lounge/notice-view.do?no=80195"
+    },
+    {
+      "제목": "미 SEC 레버리지·인버스 ETF 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "EP004_환헤지_가로.png",
+      "파일": "시각자료/EP004_환헤지_가로.png",
+      "위치": "도입 뒤",
+      "대체텍스트": "원화 거래와 환헤지 역할을 비교하는 천억이와 수건 친구",
+      "캡션": "환율 영향과 채권 가격 변화를 따로 확인한다."
+    }
+  ],
+  "원고": "EP004.md",
+  "팩트체크": "운용사 좌당 71원·종가 기준일 및 가상 환율·옵션 산식 대조",
+  "관련": [
+    "EP005",
+    "FAQ03"
+  ],
+  "분야": "ETF 기초와 상품 구조",
+  "원고해시": "4d1e78df1d58577710f45edf6d578446ede57fda334fed65ca928f9c2c988b1d"
+}

@@ -1,0 +1,43 @@
+{
+  "ID": "EP121",
+  "제목": "부모님께 ETF 설명할 때 먼저 볼 TOP 7, 수익률보다 손에 남는 돈부터",
+  "독자": "부모님과 처음 ETF 선택 기준을 확인하는 투자자",
+  "주요질문": "내년에 쓸 돈이 포함된 경우 ETF를 어떤 순서로 확인할까?",
+  "답": "지출일과 필요 금액부터 확인하고 편입자산, 환노출, 분배, 비용, 성과 비교 조건, 실제 출금액 순서로 본다.",
+  "출처": [
+    {
+      "제목": "미국 SEC · ETF 투자자 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24"
+    },
+    {
+      "제목": "미국 SEC · ETF 비용 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin"
+    },
+    {
+      "제목": "FINRA · 자산 배분과 분산투자",
+      "URL": "https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification"
+    }
+  ],
+  "기준": "원화 가상 계산·1년 지출 예시·편집부 확인 순서",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 가로 정보 만화",
+      "원본": "부모님_ETF_피라미드.png",
+      "파일": "영상/EP121/부모님_ETF_피라미드.png",
+      "대체텍스트": "부모님과 ETF를 확인하는 순서를 7단 피라미드로 표시한다. 원화 1,000만 원에서 일 년 뒤 400만 원을 쓰는 가상 비교에서 투자액이 25% 하락하면 각각 350만 원과 450만 원이 남는다.",
+      "캡션": "피라미드는 가상 가족의 확인 순서다. 막대는 1년 동안 25% 하락한 뒤 400만 원을 지출하고 남은 금액이다.",
+      "위치": "하락기와 상승기 지출 후 잔액 비교 뒤"
+    }
+  ],
+  "원고": "EP121.md",
+  "팩트체크": "미국 SEC 및 FINRA 원문 안내와 가상 계산 검산. 실제 수익률·개별 계좌 세법 미적용.",
+  "분야": "가족 ETF 교육·TOP7",
+  "관련": [
+    "EP001",
+    "EP007",
+    "EP021"
+  ],
+  "장문진행": "8장 본문과 가로 만화 준비. 낭독 확장·지정 음성 실측 대기.",
+  "원고해시": "3fde9aa2059c3494cda9aca9786f40550718493334896ca190057901f295c820"
+}

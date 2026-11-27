@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=ETF 십만 원과 세 접시
+artist=TRUSTA 투자연구소
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=39279
+title=접시는 셋인데 동전은 열 개

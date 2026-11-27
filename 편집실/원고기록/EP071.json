@@ -1,0 +1,31 @@
+{
+  "ID": "EP071",
+  "제목": "재무제표 세 장으로 읽는 첫 거래, 매출이 늘어도 통장이 비는 이유",
+  "독자": "기업 공시를 처음 읽는 독자",
+  "주요질문": "가게에서 100만 원어치를 외상으로 팔았다. 오늘 매출 장부, 자산 장부, 은행 통장이 모두 100만 원씩 늘었을까?",
+  "답": "회수보다 지급일이 빠르면 가능하다. 현금성자산과 영업현금흐름·부채 만기까지 같이 본다.",
+  "출처": [
+    {
+      "제목": "미 SEC 재무제표 안내",
+      "URL": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements"
+    },
+    {
+      "제목": "미 SEC 사업보고서 읽는 법",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read"
+    },
+    {
+      "제목": "엔비디아 2025 회계연도 10-K 원문",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [],
+  "원고": "EP071.md",
+  "팩트체크": "원리·예시 대조 / 개별 독자 조건 별도",
+  "관련": [
+    "EP073"
+  ],
+  "분야": "기업 실적·재무 분석",
+  "원고해시": "a205703e4054e8dd600585d2871a99c63c6c505e2c8308b161da17024fdb7bd0"
+}

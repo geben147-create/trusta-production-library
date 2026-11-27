@@ -1,0 +1,57 @@
+{
+  "ID": "EP002",
+  "제목": "인덱스펀드와 ETF, 한 상품에 이름이 둘인 이유",
+  "독자": "펀드 가입 화면의 용어가 헷갈리는 독자",
+  "주요질문": "은행에서 산 인덱스펀드와 거래소에서 산 ETF 중 누가 더 ‘인덱스’에 가까울까?",
+  "답": "인덱스는 지수를 추종하는 운용 방식이고 ETF는 거래소에서 장중 거래되는 펀드다. 한 상품이 두 조건을 함께 충족할 수 있다.",
+  "출처": [
+    {
+      "제목": "미 SEC 인덱스펀드 정의",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/glossary/index-fund"
+    },
+    {
+      "제목": "미 SEC의 펀드 거래방식 비교",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/characteristics-mutual-funds-exchange-traded-funds"
+    },
+    {
+      "제목": "미 SEC 헤지펀드 안내",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/hedge-funds"
+    },
+    {
+      "제목": "미 SEC의 ETF 구조 안내",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-2"
+    },
+    {
+      "제목": "FINRA 분산투자 안내",
+      "URL": "https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "4:5 만화",
+      "원본": "EP002_천억이.png",
+      "파일": "시각자료/EP002_천억이.png",
+      "대체텍스트": "영수증의 두 기준과 네 가지 펀드 조합",
+      "캡션": "미국 일반 공모펀드 기준. 지수 추종과 거래소 거래의 교차점.",
+      "위치": "도입 뒤"
+    },
+    {
+      "종류": "4:5 보조",
+      "원본": "EP002_펀드의_분류.png",
+      "파일": "그림/EP002_보조.png",
+      "대체텍스트": "미국 펀드에서 이름을 읽는 두 가지 기준의 주요 항목을 비교하는 카드",
+      "캡션": "운용 전략과 거래 형태의 두 축을 비교한다.",
+      "위치": "예시·반례 다음, 편집부 Q&A 직전"
+    }
+  ],
+  "원고": "EP002.md",
+  "팩트체크": "원리·예시 대조 / 개별 독자 조건 별도",
+  "관련": [
+    "EP003",
+    "FAQ01"
+  ],
+  "분야": "ETF 기초와 상품 구조",
+  "원고해시": "819395f0d538cfbea6c13924101c0a0f4cd8149ac9d4126cebbba4fddd7a5983"
+}

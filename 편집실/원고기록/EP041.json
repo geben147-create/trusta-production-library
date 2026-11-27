@@ -1,0 +1,71 @@
+{
+  "ID": "EP041",
+  "제목": "월분배금 120만 원을 받았는데, 왜 ETF에서 30만 원을 잃었을까?",
+  "독자": "월 입금액을 생활비로 쓰려는 독자",
+  "주요질문": "한 해 동안 매달 10만 원씩 들어왔다. 통장에 남은 120만 원만 보면 제법 번 것 같다. 그런데 연말에 ETF까지 전부 현금으로 바꾸면 처음 넣은 1,000만 원을 되찾을 수 있을까?",
+  "답": "ETF 850만 원과 현금 120만 원이 합계 970만 원. 최초 1천만 원에 비해 30만 원 손실이다. 지출과 재투자는 각각 따로 대조한다.",
+  "출처": [
+    {
+      "제목": "SEC 펀드 분배금 투자자 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/fund-distributions-investor-bulletin"
+    },
+    {
+      "제목": "Global X QYLD 팩트시트",
+      "URL": "https://assets.ctfassets.net/9gigg57dwmx9/funds-documents-qyld-fact-sheet_qyld-af2371ada8/19b9c4deab1c51478c64bbfaba382acf/Fact-Sheet_QYLD.pdf"
+    },
+    {
+      "제목": "Global X QYLD 상품 설명·지급 이력",
+      "URL": "https://www.globalxetfs.com/funds/qyld"
+    },
+    {
+      "제목": "SEC 분배락일 안내",
+      "URL": "https://www.investor.gov/introduction-investing/investing-basics/glossary/ex-dividend-dates-when-are-you-entitled-stock-and"
+    },
+    {
+      "제목": "SEC EDGAR Global X 주주보고서 · QYLD",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1432353/000093041326000081/c114720_ncsr.htm"
+    }
+  ],
+  "기준": "원화 가상 1년 · QYLD 공시 관측 2026-09-30, 10월 지급 이력",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "9:16 원페이지",
+      "원본": "EP041_분배금과_총손익.png",
+      "파일": "그림/EP041.png",
+      "대체텍스트": "최초 원금 1천만 원, 기말 ETF 850만 원과 분배금 120만 원을 대조한 세로 카드.",
+      "캡션": "같은 원금 기준의 현금 분배 비율은 12%, 미재투자 단순 보유기간 수익률은 −3%다.",
+      "위치": "두 번째 장 끝, 손익분기 주가 계산 뒤"
+    },
+    {
+      "종류": "16:9 정보 만화",
+      "원본": "열두봉투_장부.png",
+      "파일": "시각자료/EP041_두서랍_월분배금.png",
+      "위치": "파란 수첩에서 사라진 돈 직전",
+      "대체텍스트": "매표소에서 천억이와 수건 친구가 봉투와 ETF 수첩을 연다. 세 유리 기둥은 ETF 850만 원, 현금 120만 원, 합계 970만 원을 나타낸다.",
+      "캡션": "가상 1년, 원화, 세금·비용·이자 0, 미재투자. 열두 번 받은 현금을 남은 ETF에 보태면 30만 원 손실이다."
+    },
+    {
+      "종류": "16:9 공시 읽기",
+      "원본": "QYLD_분배율과성과.png",
+      "파일": "시각자료/EP041_QYLD_두항목.png",
+      "위치": "이미 써 버린 육십만 원은 어디에 적을까 직전",
+      "대체텍스트": "두 인물이 Global X 팩트시트 원문에서 최근 열두 달 분배율과 1년 순자산가치 성과를 찾는다. 두 실제 공시 화면에 확인할 행과 열을 표시했다.",
+      "캡션": "2026년 9월 30일 미국 QYLD. 최근 12개월 분배율 12.11%와 1년 NAV 성과 22.94%는 다른 질문에 답한다."
+    }
+  ],
+  "원고": "EP041.md",
+  "팩트체크": "SEC·Global X 공시와 기말 장부, 손익분기점·재투자 반례 산술 확인",
+  "관련": [
+    "EP043",
+    "FAQ03"
+  ],
+  "분야": "월배당·커버드콜 검증",
+  "원고해시": "cad2b7edfbff419a33e919a075a686e5a551ebdcff34c3a315e04804e18a23d8",
+  "장문진행": "8단계 장문 완성 · 실제 음성 PASS",
+  "음성상태": "지정 Qwen v2 전체 합성 · 영상 완성",
+  "낭독행수": 186,
+  "낭독해시": "7d5f5d5103170cce5cf4cc52a0ec0e160ae45b16a7e1ce8c049f359cefe53b3d",
+  "낭독JSONL해시": "4732c3de4027e1ad96f1b2292323c4e4e730ccd0e84acb39ab0d0ac43c7d505f",
+  "영상": "영상/EP041/열두봉투_월분배금과총수익.mp4"
+}

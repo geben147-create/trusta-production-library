@@ -1,0 +1,33 @@
+{
+  "directory": "/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP075_영상조판/glass",
+  "charts": {
+    "price": {
+      "unit": "달러",
+      "top": 110,
+      "values": [
+        100,
+        94,
+        96
+      ],
+      "labels": [
+        "발표 전 종가",
+        "시간외 체결",
+        "다음 날 종가"
+      ]
+    },
+    "eps": {
+      "unit": "달러",
+      "top": 2,
+      "values": [
+        0.97,
+        1.6,
+        1.64
+      ],
+      "labels": [
+        "GAAP 실측",
+        "조정 가상 예상",
+        "조정 실측"
+      ]
+    }
+  }
+}

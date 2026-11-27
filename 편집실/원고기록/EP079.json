@@ -1,0 +1,31 @@
+{
+  "ID": "EP079",
+  "제목": "같은 업종 두 회사, 이익률을 비교하기 전에 맞출 숫자들",
+  "독자": "경쟁사의 영업 효율을 비교하는 독자",
+  "주요질문": "경쟁사 A가 영업이익을 두 배로 벌었다. 규모가 두 배인지 장사를 두 배 잘한 건지 어떻게 가를까?",
+  "답": "사업부 구성과 매출 지역, 주된 고객의 비중이 다르면 전사 평균은 다른 사업을 섞은 값이다.",
+  "출처": [
+    {
+      "제목": "미 SEC 재무제표 안내",
+      "URL": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements"
+    },
+    {
+      "제목": "미 SEC 사업보고서 읽는 법",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read"
+    },
+    {
+      "제목": "금융감독원 OpenDART 공시 안내",
+      "URL": "https://opendart.fss.or.kr/guide/main.do"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [],
+  "원고": "EP079.md",
+  "팩트체크": "원리·예시 대조 / 개별 독자 조건 별도",
+  "관련": [
+    "EP077"
+  ],
+  "분야": "기업 실적·재무 분석",
+  "원고해시": "18492222f37d09bfc7f5c3eda4786a8372d31745e6fecbead31e9c034ce56753"
+}

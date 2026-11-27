@@ -1,0 +1,41 @@
+{
+  "ID": "EP016",
+  "제목": "SOXX와 SMH, 반도체 ETF 한 주의 단일기업 위험 비교법",
+  "독자": "반도체 ETF 둘 중 실제 노출을 알고 싶은 독자",
+  "주요질문": "칩 설계회사 실적이 흔들릴 때 두 반도체 ETF가 같이 떨어져도 낙폭은 왜 다를까?",
+  "답": "가중 상한과 정기 변경 규칙이 다르면 같은 이름에도 자금 배분과 다음 편입 변화가 달라진다.",
+  "출처": [
+    {
+      "제목": "iShares SOXX",
+      "URL": "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf"
+    },
+    {
+      "제목": "VanEck SMH",
+      "URL": "https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/"
+    },
+    {
+      "제목": "FINRA 분산투자 안내",
+      "URL": "https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 3D 정보만화",
+      "원본": "EP016_단일기업충격_3D.png",
+      "파일": "시각자료/EP016_단일기업충격_3D.png",
+      "위치": "가상 손실 계산 뒤",
+      "대체텍스트": "가상 200만 원 계좌에서 12%와 20% 단일기업 비중에 따른 3만 6천 원과 6만 원 손실 비교",
+      "캡션": "X사만 하루 15% 하락한 가상 비교"
+    }
+  ],
+  "원고": "EP016.md",
+  "팩트체크": "운용사 벤치마크·상장시장 표시 및 가상 충격·환율 산술 대조",
+  "관련": [
+    "EP017",
+    "FAQ01"
+  ],
+  "분야": "미국·글로벌 ETF 비교",
+  "원고해시": "6bde5eba1b387249b39d04039e93a9f04dcc05e24bffa7c78982e53765a5fede"
+}

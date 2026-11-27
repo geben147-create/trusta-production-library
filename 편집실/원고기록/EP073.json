@@ -1,0 +1,31 @@
+{
+  "ID": "EP073",
+  "제목": "FCF와 순이익, 설비를 산 해에 두 숫자가 갈라지는 이유",
+  "독자": "흑자 기업의 현금 여력을 보려는 독자",
+  "주요질문": "장사가 잘된 회사가 공장을 새로 샀다. 이익은 늘었는데 ‘잉여현금흐름 감소’가 붙는 이유는 무엇일까?",
+  "답": "일회성 대형 투자와 반복되는 영업적자를 구별한다. 투자 이후 현금 회수와 자금조달 여력이 다음 질문이다.",
+  "출처": [
+    {
+      "제목": "미 SEC 재무제표 안내",
+      "URL": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements"
+    },
+    {
+      "제목": "미 SEC 사업보고서 읽는 법",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read"
+    },
+    {
+      "제목": "엔비디아 2025 회계연도 10-K 원문",
+      "URL": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [],
+  "원고": "EP073.md",
+  "팩트체크": "원리·예시 대조 / 개별 독자 조건 별도",
+  "관련": [
+    "EP075"
+  ],
+  "분야": "기업 실적·재무 분석",
+  "원고해시": "96acc1df08f27af21d8c1b051aa297b4e1ce00bee6e7fb5ca5750363d65be2dc"
+}

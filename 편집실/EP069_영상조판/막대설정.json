@@ -1,0 +1,33 @@
+{
+  "directory": "/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP069_영상조판/glass",
+  "charts": {
+    "cash": {
+      "unit": "%",
+      "top": 12,
+      "values": [
+        12.0,
+        4.0,
+        9.0
+      ],
+      "labels": [
+        "상품 A",
+        "상품 B",
+        "상품 C"
+      ]
+    },
+    "return": {
+      "unit": "%",
+      "top": 12,
+      "values": [
+        2.0,
+        8.0,
+        6.0
+      ],
+      "labels": [
+        "상품 A",
+        "상품 B",
+        "상품 C"
+      ]
+    }
+  }
+}

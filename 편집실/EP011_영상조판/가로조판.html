@@ -1,0 +1,38 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><title>같은 지수, 두 장의 영수증</title>
+<style>
+@font-face{font-family:Jalnan;src:url('file:///home/yh/.local/share/fonts/JalnanGothic/JalnanGothic.ttf')}
+*{box-sizing:border-box}body{margin:0;width:1920px;height:1080px;padding:44px 58px;background:#f1ede3;color:#202c34;font-family:Jalnan,sans-serif}
+h1{font-size:67px;letter-spacing:-2px;line-height:1.08;margin:0 0 19px}mark{background:#fff0ab;color:inherit;padding:0 .12em}strong{color:#90262c}
+main{height:826px;display:grid;grid-template-columns:1034px 1fr;gap:22px}
+.chart{background:#fffaf0;border:4px solid #303a3e;border-radius:15px;padding:22px 28px}
+.chart h2{font-size:39px;margin:0 0 10px}.chart p{font-size:23px;margin:12px 0}
+.chart img{display:block;height:609px;width:100%;object-fit:contain;background:#f8f4ea;border-radius:12px}
+.story{display:grid;grid-template-rows:250px 260px 278px;gap:19px}
+.panel{border:4px solid #303a3e;border-radius:15px;position:relative;overflow:hidden;background:#fcf8ef}
+.hero{position:absolute;top:8px;left:10px;width:233px;height:220px;object-fit:none;object-position:50% 0}
+.friend{position:absolute;right:16px;top:27px;width:236px;height:204px;overflow:hidden;border-radius:15px;background:#a88268}
+.friend img{width:236px;position:absolute;top:-26px;clip-path:inset(0 20px 0 0)}
+.speech{position:absolute;border:3px solid #303a3e;border-radius:26px;padding:19px 23px;background:#fffef8;font-size:33px;line-height:1.4}
+.speech:after{content:'';position:absolute;width:15px;height:15px;background:#fffef8;border-bottom:3px solid #303a3e;border-right:3px solid #303a3e;bottom:-10px;transform:rotate(45deg)}
+.a{top:35px;right:24px}.a:after{left:24px}.b{top:35px;left:25px}.b:after{right:24px}
+.bill{border:3px solid #a08062;border-radius:12px;padding:22px 31px;background:#fff0d3;font-size:28px;line-height:1.38}
+.bill h2{font-size:34px;margin:0 0 13px}.bill p{margin:9px 0}
+footer{margin-top:22px;font-size:24px;border-top:2px solid #b0a492;padding-top:12px;display:flex;justify-content:space-between}
+</style>
+<h1>같은 S&amp;P 500, 10년 뒤 <mark>내 수익도 같을까?</mark></h1>
+<main>
+<section class="chart">
+<h2>1,000달러씩 넣고 10년을 보유했다면</h2>
+<p>2016.09.30–2026.09.30 · 공시 달러 NAV 총수익률로 계산</p>
+<img src="glass/years10_표기.png" alt="VOO 4,148.74달러, SPY 4,109.33달러, S&P 500 총수익지수 4,163.16달러">
+<p>분배금 재투자 · 펀드 비용 반영 · 개인 세금·환전·거래비용 제외</p>
+<p>지수 막대는 비교 기준 · 공시 연율로 계산한 잔액은 근사값</p>
+</section>
+<section class="story" aria-label="거래 영수증을 비교하는 천억이와 수건 친구">
+<div class="panel"><img class="hero" src="../../집필인계/천억이_시그니처표정.png" alt="입을 크게 벌린 천억이"><div class="speech a">같은 지수인데<br>10년 뒤엔 <strong>39.41달러</strong><br>차이 났어!</div></div>
+<div class="panel"><div class="friend"><img src="../../집필인계/천억이_수건친구.png" alt="영수증을 가리키는 수건 친구"></div><div class="speech b">공시 성적표는 여기.<br>우리 <strong>체결가·환율</strong>은<br>영수증에서 보자.</div></div>
+<div class="bill"><h2>영수증에서 맞춰 볼 것</h2><p><mark>같은 기간</mark>　시작일과 종료일</p><p><mark>같은 성과 기준</mark>　달러·NAV·분배 재투자</p><p><mark>내 결제 내역</mark>　체결가·환율·거래비용</p></div>
+</section>
+</main>
+<footer><span>TRUSTA 투자연구소</span><span>출처　Vanguard VOO 팩트시트 · State Street SPY 팩트시트</span></footer>
+</html>

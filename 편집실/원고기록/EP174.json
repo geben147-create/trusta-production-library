@@ -1,0 +1,46 @@
+{
+  "ID": "EP174",
+  "제목": "둘 다 14.86% 올랐는데, 왜 한 ETF만 생활비가 들어왔을까?",
+  "독자": "분배금을 생활비에 쓰려는 은퇴 준비자와 시니어",
+  "주요질문": "편집부가 만든 질문. 누적형과 분배형의 1년 총수익이 같아도 언제 현금을 쓸 수 있을까?",
+  "답": "분배형의 6월 배당락 회차는 7월에 지급됐다. 생활비는 실제 현금 장부와 날짜를 확인한다.",
+  "출처": [
+    {
+      "제목": "Vanguard Funds plc 연차보고서",
+      "URL": "https://fund-docs.vanguard.com/etf-annual-report.pdf"
+    },
+    {
+      "제목": "Vanguard 분배형 지급 이력",
+      "URL": "https://global.vanguard.com/it-it/investment-products/etf/equities/9503/sp-500-ucits-etf-usd-distributing"
+    },
+    {
+      "제목": "Vanguard 누적형 클래스 자료",
+      "URL": "https://global.vanguard.com/de-de/investment-products/etf/equities/9694/s-p-500-ucits-etf"
+    },
+    {
+      "제목": "Vanguard 분배형 팩트시트",
+      "URL": "https://fund-docs.vanguard.com/SandP_500_UCITS_ETF_USD_Distributing_9503_CH_RET_EN.pdf"
+    }
+  ],
+  "기준": "Vanguard 2025-06-30 종료 연차보고서 및 분배 이력",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "exec-5250b665-4df9-4c32-a73f-5b2b4314dd93.png",
+      "파일": "시각자료/EP174_누적형분배형지급일_가로.png",
+      "위치": "도입 뒤 Q&A 위",
+      "대체텍스트": "천억이와 동료가 누적형과 분배형의 1년 총수익 14.86%와 분배형의 2025년 6월 19일 배당락, 7월 2일 지급을 비교한다.",
+      "캡션": "Vanguard S&P 500 UCITS ETF 두 클래스의 2025년 6월 말 기준가 총수익과 분배형의 해당 회차 운용사 지급일입니다.",
+      "기간": "2025-06-30 종료 1년 및 2025년 7월 2일 지급"
+    }
+  ],
+  "원고": "EP174.md",
+  "팩트체크": "두 클래스의 기준가 총수익, 배당락·기준·지급일 및 1.2배속 1020.106초 확인.",
+  "관련": [
+    "EP166",
+    "EP172"
+  ],
+  "분야": "은퇴 생활비와 누적형·분배형 ETF",
+  "원고해시": "81b74acb2f6683ae099d5ca13cc0a74e1477602fe3da978952f1172e0e16dbbe"
+}

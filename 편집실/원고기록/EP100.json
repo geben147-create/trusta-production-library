@@ -1,0 +1,41 @@
+{
+  "ID": "EP100",
+  "제목": "AI 투자연구소 월간 성적표, 지난달 틀린 판단까지 남기는 법",
+  "독자": "월간 투자 리포트를 발행하거나 구독하는 독자",
+  "주요질문": "지난달 보고서가 맞았다는 새 글이 올라왔다. 기준을 바꾼 뒤 남은 성공 사례만 세면 무엇이든 잘 맞은 것처럼 보이지 않을까?",
+  "답": "원래 달의 미판정을 그대로 두고 다음 달에 확정 결과를 연결한다. 약속한 분모를 뒤늦게 바꾸면 두 달의 비교가 깨진다.",
+  "출처": [
+    {
+      "제목": "미 SEC EDGAR 데이터 정의",
+      "URL": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    },
+    {
+      "제목": "미 SEC 펀드 분배금 안내",
+      "URL": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/fund-distributions-investor-bulletin"
+    },
+    {
+      "제목": "Bailey 외 백테스트 과적합 논문",
+      "URL": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf"
+    }
+  ],
+  "기준": "원고 내 가정·기간 또는 발행사 설명",
+  "확인일": "2026-11-27",
+  "이미지": [
+    {
+      "종류": "16:9 정보만화",
+      "원본": "EP100_성적표_가로.png",
+      "파일": "시각자료/EP100_성적표_가로.png",
+      "위치": "등록 열 건의 판정 다음",
+      "대체텍스트": "전체 기준 70%와 판정 기준 77.78%",
+      "캡션": "가상 한 달의 예측 건수. 미판정 한 건은 원래 달에 남긴다."
+    }
+  ],
+  "원고": "EP100.md",
+  "팩트체크": "가상 적중률·판정률·금액 손익 검산, 실제 투자 실적과 구분",
+  "관련": [
+    "EP099",
+    "FAQ03"
+  ],
+  "분야": "AI 검증 도구·코인·구독",
+  "원고해시": "2299e342789a4579a8b453c242ffd4cf65ed8d78eec0ccf128a89dadc4aeded7"
+}

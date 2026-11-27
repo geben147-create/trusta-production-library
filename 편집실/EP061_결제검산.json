@@ -1,0 +1,1069 @@
+{
+  "확인일": "2026-11-27",
+  "출처": [
+    {
+      "제목": "한국예탁결제원 외화증권 결제 통계",
+      "URL": "https://seibro.or.kr/websquare/control.jsp?w2xPath=/IPORTAL/user/ovsSec/BIP_CNTS10013V.xml&menuNo=921"
+    },
+    {
+      "제목": "금융위원회 외화증권 예탁결제 항목 정의",
+      "URL": "https://www.data.go.kr/data/15043445/openapi.do"
+    },
+    {
+      "제목": "Direxion SOXL 투자목표",
+      "URL": "https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs"
+    },
+    {
+      "제목": "ProShares TQQQ 투자목표",
+      "URL": "https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq"
+    },
+    {
+      "제목": "Direxion KORU 운용 목표",
+      "URL": "https://www.direxion.com/product/daily-msci-south-korea-bull-3x-etf"
+    },
+    {
+      "제목": "ProShares QLD 운용 목표",
+      "URL": "https://www.proshares.com/our-etfs/leveraged-and-inverse/qld"
+    }
+  ],
+  "조회조건": {
+    "시장": "미국",
+    "데이터": "순매수결제금액 상위 50",
+    "통화": "USD",
+    "날짜": "결제일"
+  },
+  "월간": {
+    "기간": [
+      "2026-10-01",
+      "2026-10-31"
+    ],
+    "전체50": [
+      {
+        "RNUM": "1",
+        "NATION_NM": "미국",
+        "ISIN": "US25459W4583",
+        "KOR_SECN_NM": "DIREXION DAILY SEMICONDUCTORS BULL 3X SHS ETF",
+        "SUM_FRSEC_BUY_AMT": "5718806463",
+        "SUM_FRSEC_SELL_AMT": "2750960831",
+        "SUM_FRSEC_TOT_AMT": "8469767294",
+        "SUM_FRSEC_NET_BUY_AMT": "2967845631"
+      },
+      {
+        "RNUM": "2",
+        "NATION_NM": "미국",
+        "ISIN": "US84615Q1031",
+        "KOR_SECN_NM": "SPACE EXPLORATION TECHN-CL A",
+        "SUM_FRSEC_BUY_AMT": "652669743",
+        "SUM_FRSEC_SELL_AMT": "184595585",
+        "SUM_FRSEC_TOT_AMT": "837265328",
+        "SUM_FRSEC_NET_BUY_AMT": "468074159"
+      },
+      {
+        "RNUM": "3",
+        "NATION_NM": "미국",
+        "ISIN": "US25461A3876",
+        "KOR_SECN_NM": "DIREXION SHARES ETF TRUST DAILY MSCI SOUTH KOREA BULL SPLR 970211833 US25459Y5208",
+        "SUM_FRSEC_BUY_AMT": "522651478",
+        "SUM_FRSEC_SELL_AMT": "259142146",
+        "SUM_FRSEC_TOT_AMT": "781793625",
+        "SUM_FRSEC_NET_BUY_AMT": "263509332"
+      },
+      {
+        "RNUM": "4",
+        "NATION_NM": "미국",
+        "ISIN": "US46222L1089",
+        "KOR_SECN_NM": "IONQ INC. CL.A   DL- 0001",
+        "SUM_FRSEC_BUY_AMT": "293248539",
+        "SUM_FRSEC_SELL_AMT": "49019600",
+        "SUM_FRSEC_TOT_AMT": "342268140",
+        "SUM_FRSEC_NET_BUY_AMT": "244228939"
+      },
+      {
+        "RNUM": "5",
+        "NATION_NM": "미국",
+        "ISIN": "US74347R2067",
+        "KOR_SECN_NM": "PROSHARES ULTRA QQQ ETF",
+        "SUM_FRSEC_BUY_AMT": "266419922",
+        "SUM_FRSEC_SELL_AMT": "30906689",
+        "SUM_FRSEC_TOT_AMT": "297326611",
+        "SUM_FRSEC_NET_BUY_AMT": "235513233"
+      },
+      {
+        "RNUM": "6",
+        "NATION_NM": "미국",
+        "ISIN": "US74347X8314",
+        "KOR_SECN_NM": "PROSHARES ULTRAPRO QQQ ETF",
+        "SUM_FRSEC_BUY_AMT": "393062441",
+        "SUM_FRSEC_SELL_AMT": "171923265",
+        "SUM_FRSEC_TOT_AMT": "564985706",
+        "SUM_FRSEC_NET_BUY_AMT": "221139176"
+      },
+      {
+        "RNUM": "7",
+        "NATION_NM": "미국",
+        "ISIN": "US02079K3059",
+        "KOR_SECN_NM": "ALPHABET INC CL A",
+        "SUM_FRSEC_BUY_AMT": "422605318",
+        "SUM_FRSEC_SELL_AMT": "206407670",
+        "SUM_FRSEC_TOT_AMT": "629012988",
+        "SUM_FRSEC_NET_BUY_AMT": "216197648"
+      },
+      {
+        "RNUM": "8",
+        "NATION_NM": "미국",
+        "ISIN": "US46138G6492",
+        "KOR_SECN_NM": "INVESCO NASDAQ 100 ETF",
+        "SUM_FRSEC_BUY_AMT": "215145009",
+        "SUM_FRSEC_SELL_AMT": "29837336",
+        "SUM_FRSEC_TOT_AMT": "244982344",
+        "SUM_FRSEC_NET_BUY_AMT": "185307673"
+      },
+      {
+        "RNUM": "9",
+        "NATION_NM": "미국",
+        "ISIN": "US9229083632",
+        "KOR_SECN_NM": "VANGUARD SP 500 ETF SPLR 39326002188 US9229084135",
+        "SUM_FRSEC_BUY_AMT": "189015579",
+        "SUM_FRSEC_SELL_AMT": "35352296",
+        "SUM_FRSEC_TOT_AMT": "224367874",
+        "SUM_FRSEC_NET_BUY_AMT": "153663283"
+      },
+      {
+        "RNUM": "10",
+        "NATION_NM": "미국",
+        "ISIN": "AU0000185993",
+        "KOR_SECN_NM": "IRIS ENERGY LTD",
+        "SUM_FRSEC_BUY_AMT": "287426221",
+        "SUM_FRSEC_SELL_AMT": "149290184",
+        "SUM_FRSEC_TOT_AMT": "436716405",
+        "SUM_FRSEC_NET_BUY_AMT": "138136037"
+      },
+      {
+        "RNUM": "11",
+        "NATION_NM": "미국",
+        "ISIN": "US46090E1038",
+        "KOR_SECN_NM": "INVESCO QQQ TRUST SRS 1 ETF",
+        "SUM_FRSEC_BUY_AMT": "167753284",
+        "SUM_FRSEC_SELL_AMT": "51851554",
+        "SUM_FRSEC_TOT_AMT": "219604838",
+        "SUM_FRSEC_NET_BUY_AMT": "115901730"
+      },
+      {
+        "RNUM": "12",
+        "NATION_NM": "미국",
+        "ISIN": "US46654Q2030",
+        "KOR_SECN_NM": "J.P. MORGAN NASDAQ EQUITY PREMIUM INCOME ETF",
+        "SUM_FRSEC_BUY_AMT": "112026577",
+        "SUM_FRSEC_SELL_AMT": "18236867",
+        "SUM_FRSEC_TOT_AMT": "130263444",
+        "SUM_FRSEC_NET_BUY_AMT": "93789710"
+      },
+      {
+        "RNUM": "13",
+        "NATION_NM": "미국",
+        "ISIN": "US46436E7186",
+        "KOR_SECN_NM": "ISHARES 0-3 MONTH TREASURY BOND ETF",
+        "SUM_FRSEC_BUY_AMT": "234469579",
+        "SUM_FRSEC_SELL_AMT": "144432796",
+        "SUM_FRSEC_TOT_AMT": "378902374",
+        "SUM_FRSEC_NET_BUY_AMT": "90036783"
+      },
+      {
+        "RNUM": "14",
+        "NATION_NM": "미국",
+        "ISIN": "CA15101Q2071",
+        "KOR_SECN_NM": "CELESTICA INC COM NPV EXOF 959276693 CA15101Q1081",
+        "SUM_FRSEC_BUY_AMT": "95833750",
+        "SUM_FRSEC_SELL_AMT": "10279279",
+        "SUM_FRSEC_TOT_AMT": "106113028",
+        "SUM_FRSEC_NET_BUY_AMT": "85554471"
+      },
+      {
+        "RNUM": "15",
+        "NATION_NM": "미국",
+        "ISIN": "CA82509L1076",
+        "KOR_SECN_NM": "SHOPIFY INC CL A",
+        "SUM_FRSEC_BUY_AMT": "92451190",
+        "SUM_FRSEC_SELL_AMT": "9410565",
+        "SUM_FRSEC_TOT_AMT": "101861755",
+        "SUM_FRSEC_NET_BUY_AMT": "83040624"
+      },
+      {
+        "RNUM": "16",
+        "NATION_NM": "미국",
+        "ISIN": "US55024U1097",
+        "KOR_SECN_NM": "LUMENTUM HOLDINGS INC SOFF 39520207144 US46612J5074",
+        "SUM_FRSEC_BUY_AMT": "254139676",
+        "SUM_FRSEC_SELL_AMT": "178693760",
+        "SUM_FRSEC_TOT_AMT": "432833436",
+        "SUM_FRSEC_NET_BUY_AMT": "75445917"
+      },
+      {
+        "RNUM": "17",
+        "NATION_NM": "미국",
+        "ISIN": "US4642875235",
+        "KOR_SECN_NM": "ISHARES SEMICONDUCTOR ETF",
+        "SUM_FRSEC_BUY_AMT": "202301181",
+        "SUM_FRSEC_SELL_AMT": "132835772",
+        "SUM_FRSEC_TOT_AMT": "335136953",
+        "SUM_FRSEC_NET_BUY_AMT": "69465409"
+      },
+      {
+        "RNUM": "18",
+        "NATION_NM": "미국",
+        "ISIN": "US0937121079",
+        "KOR_SECN_NM": "BLOOM ENERGY CORP CL A",
+        "SUM_FRSEC_BUY_AMT": "162773189",
+        "SUM_FRSEC_SELL_AMT": "97322819",
+        "SUM_FRSEC_TOT_AMT": "260096007",
+        "SUM_FRSEC_NET_BUY_AMT": "65450370"
+      },
+      {
+        "RNUM": "19",
+        "NATION_NM": "미국",
+        "ISIN": "US58933Y1055",
+        "KOR_SECN_NM": "MERCK N CO INC",
+        "SUM_FRSEC_BUY_AMT": "70301675",
+        "SUM_FRSEC_SELL_AMT": "5876786",
+        "SUM_FRSEC_TOT_AMT": "76178461",
+        "SUM_FRSEC_NET_BUY_AMT": "64424889"
+      },
+      {
+        "RNUM": "20",
+        "NATION_NM": "미국",
+        "ISIN": "US8835561023",
+        "KOR_SECN_NM": "THERMO FISHER SCIENTIFIC INC",
+        "SUM_FRSEC_BUY_AMT": "64828655",
+        "SUM_FRSEC_SELL_AMT": "2002007",
+        "SUM_FRSEC_TOT_AMT": "66830662",
+        "SUM_FRSEC_NET_BUY_AMT": "62826649"
+      },
+      {
+        "RNUM": "21",
+        "NATION_NM": "미국",
+        "ISIN": "US78464A8541",
+        "KOR_SECN_NM": "SPDR PORTFOLIO SP 500 ETF",
+        "SUM_FRSEC_BUY_AMT": "65416149",
+        "SUM_FRSEC_SELL_AMT": "9225717",
+        "SUM_FRSEC_TOT_AMT": "74641866",
+        "SUM_FRSEC_NET_BUY_AMT": "56190432"
+      },
+      {
+        "RNUM": "22",
+        "NATION_NM": "미국",
+        "ISIN": "US78433H6751",
+        "KOR_SECN_NM": "NEOS NASDAQ 100 HIGH INCOME ETF",
+        "SUM_FRSEC_BUY_AMT": "62946299",
+        "SUM_FRSEC_SELL_AMT": "11773067",
+        "SUM_FRSEC_TOT_AMT": "74719366",
+        "SUM_FRSEC_NET_BUY_AMT": "51173232"
+      },
+      {
+        "RNUM": "23",
+        "NATION_NM": "미국",
+        "ISIN": "US90184D1000",
+        "KOR_SECN_NM": "TWIST BIOSCIENCE CORP",
+        "SUM_FRSEC_BUY_AMT": "61011900",
+        "SUM_FRSEC_SELL_AMT": "11722464",
+        "SUM_FRSEC_TOT_AMT": "72734365",
+        "SUM_FRSEC_NET_BUY_AMT": "49289436"
+      },
+      {
+        "RNUM": "24",
+        "NATION_NM": "미국",
+        "ISIN": "US02079K1079",
+        "KOR_SECN_NM": "ALPHABET INC CL C CHAN 39527405649 US38259P7069",
+        "SUM_FRSEC_BUY_AMT": "82653794",
+        "SUM_FRSEC_SELL_AMT": "37336351",
+        "SUM_FRSEC_TOT_AMT": "119990145",
+        "SUM_FRSEC_NET_BUY_AMT": "45317442"
+      },
+      {
+        "RNUM": "25",
+        "NATION_NM": "미국",
+        "ISIN": "US8085247976",
+        "KOR_SECN_NM": "SCHWAB US DIVIDEND EQUITY ETF",
+        "SUM_FRSEC_BUY_AMT": "135064657",
+        "SUM_FRSEC_SELL_AMT": "90012920",
+        "SUM_FRSEC_TOT_AMT": "225077577",
+        "SUM_FRSEC_NET_BUY_AMT": "45051737"
+      },
+      {
+        "RNUM": "26",
+        "NATION_NM": "미국",
+        "ISIN": "US0494681010",
+        "KOR_SECN_NM": "ATLASSIAN CORP",
+        "SUM_FRSEC_BUY_AMT": "38924235",
+        "SUM_FRSEC_SELL_AMT": "5503700",
+        "SUM_FRSEC_TOT_AMT": "44427935",
+        "SUM_FRSEC_NET_BUY_AMT": "33420535"
+      },
+      {
+        "RNUM": "27",
+        "NATION_NM": "미국",
+        "ISIN": "US8740391003",
+        "KOR_SECN_NM": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD ADR",
+        "SUM_FRSEC_BUY_AMT": "199013897",
+        "SUM_FRSEC_SELL_AMT": "166069511",
+        "SUM_FRSEC_TOT_AMT": "365083408",
+        "SUM_FRSEC_NET_BUY_AMT": "32944385"
+      },
+      {
+        "RNUM": "28",
+        "NATION_NM": "미국",
+        "ISIN": "US8629453007",
+        "KOR_SECN_NM": "STRIVE INC SPLR 2640969890002 US8629451027",
+        "SUM_FRSEC_BUY_AMT": "47476354",
+        "SUM_FRSEC_SELL_AMT": "14623595",
+        "SUM_FRSEC_TOT_AMT": "62099950",
+        "SUM_FRSEC_NET_BUY_AMT": "32852759"
+      },
+      {
+        "RNUM": "29",
+        "NATION_NM": "미국",
+        "ISIN": "US34631F1021",
+        "KOR_SECN_NM": "FORGENT POWER SOLUTIONS INC",
+        "SUM_FRSEC_BUY_AMT": "38802213",
+        "SUM_FRSEC_SELL_AMT": "6755287",
+        "SUM_FRSEC_TOT_AMT": "45557500",
+        "SUM_FRSEC_NET_BUY_AMT": "32046925"
+      },
+      {
+        "RNUM": "30",
+        "NATION_NM": "미국",
+        "ISIN": "US7561091049",
+        "KOR_SECN_NM": "REALTY INCOME CORP",
+        "SUM_FRSEC_BUY_AMT": "43319405",
+        "SUM_FRSEC_SELL_AMT": "12267797",
+        "SUM_FRSEC_TOT_AMT": "55587202",
+        "SUM_FRSEC_NET_BUY_AMT": "31051607"
+      },
+      {
+        "RNUM": "31",
+        "NATION_NM": "미국",
+        "ISIN": "US0079031078",
+        "KOR_SECN_NM": "ADVANCED MICRO DEVICES INC",
+        "SUM_FRSEC_BUY_AMT": "150760280",
+        "SUM_FRSEC_SELL_AMT": "120967867",
+        "SUM_FRSEC_TOT_AMT": "271728147",
+        "SUM_FRSEC_NET_BUY_AMT": "29792413"
+      },
+      {
+        "RNUM": "32",
+        "NATION_NM": "미국",
+        "ISIN": "US92189F6768",
+        "KOR_SECN_NM": "VANECK SEMICONDUCTOR ETF CHAN 39610601171 US57060U2336",
+        "SUM_FRSEC_BUY_AMT": "52628252",
+        "SUM_FRSEC_SELL_AMT": "25610729",
+        "SUM_FRSEC_TOT_AMT": "78238982",
+        "SUM_FRSEC_NET_BUY_AMT": "27017523"
+      },
+      {
+        "RNUM": "33",
+        "NATION_NM": "미국",
+        "ISIN": "US15675D1037",
+        "KOR_SECN_NM": "CEREBRAS SYSTEMS INC",
+        "SUM_FRSEC_BUY_AMT": "40585678",
+        "SUM_FRSEC_SELL_AMT": "13661982",
+        "SUM_FRSEC_TOT_AMT": "54247660",
+        "SUM_FRSEC_NET_BUY_AMT": "26923696"
+      },
+      {
+        "RNUM": "34",
+        "NATION_NM": "미국",
+        "ISIN": "US26923V4150",
+        "KOR_SECN_NM": "ROUNDHILL T-REX 2X LONG DRAM DAILY TARGET ETF",
+        "SUM_FRSEC_BUY_AMT": "71078569",
+        "SUM_FRSEC_SELL_AMT": "45392124",
+        "SUM_FRSEC_TOT_AMT": "116470692",
+        "SUM_FRSEC_NET_BUY_AMT": "25686445"
+      },
+      {
+        "RNUM": "35",
+        "NATION_NM": "미국",
+        "ISIN": "US67079K1007",
+        "KOR_SECN_NM": "NUSCALE POWER CORP CL A MRGR 009185329 KYG8377A1085",
+        "SUM_FRSEC_BUY_AMT": "37478716",
+        "SUM_FRSEC_SELL_AMT": "11978164",
+        "SUM_FRSEC_TOT_AMT": "49456880",
+        "SUM_FRSEC_NET_BUY_AMT": "25500552"
+      },
+      {
+        "RNUM": "36",
+        "NATION_NM": "미국",
+        "ISIN": "US0636795421",
+        "KOR_SECN_NM": "MicroSectors Gold Miners 3X Leveraged ETN",
+        "SUM_FRSEC_BUY_AMT": "52365346",
+        "SUM_FRSEC_SELL_AMT": "26910556",
+        "SUM_FRSEC_TOT_AMT": "79275902",
+        "SUM_FRSEC_NET_BUY_AMT": "25454790"
+      },
+      {
+        "RNUM": "37",
+        "NATION_NM": "미국",
+        "ISIN": "US74347R6696",
+        "KOR_SECN_NM": "PROSHARES ULTRA SEMICONDUCTORS ETF",
+        "SUM_FRSEC_BUY_AMT": "44072438",
+        "SUM_FRSEC_SELL_AMT": "19130227",
+        "SUM_FRSEC_TOT_AMT": "63202664",
+        "SUM_FRSEC_NET_BUY_AMT": "24942211"
+      },
+      {
+        "RNUM": "38",
+        "NATION_NM": "미국",
+        "ISIN": "US22788C1053",
+        "KOR_SECN_NM": "CROWDSTRIKE HOLDINGS CL A ORD",
+        "SUM_FRSEC_BUY_AMT": "47254222",
+        "SUM_FRSEC_SELL_AMT": "23653548",
+        "SUM_FRSEC_TOT_AMT": "70907770",
+        "SUM_FRSEC_NET_BUY_AMT": "23600675"
+      },
+      {
+        "RNUM": "39",
+        "NATION_NM": "미국",
+        "ISIN": "US66987P5089",
+        "KOR_SECN_NM": "NOVABAY PHARMACEUTICALS INC",
+        "SUM_FRSEC_BUY_AMT": "38964863",
+        "SUM_FRSEC_SELL_AMT": "15986513",
+        "SUM_FRSEC_TOT_AMT": "54951376",
+        "SUM_FRSEC_NET_BUY_AMT": "22978350"
+      },
+      {
+        "RNUM": "40",
+        "NATION_NM": "미국",
+        "ISIN": "US78462F1030",
+        "KOR_SECN_NM": "SPDR SP 500 ETF TRUST",
+        "SUM_FRSEC_BUY_AMT": "50548336",
+        "SUM_FRSEC_SELL_AMT": "30333122",
+        "SUM_FRSEC_TOT_AMT": "80881458",
+        "SUM_FRSEC_NET_BUY_AMT": "20215214"
+      },
+      {
+        "RNUM": "41",
+        "NATION_NM": "미국",
+        "ISIN": "US38149W6306",
+        "KOR_SECN_NM": "GOLDMAN SACHS NASDAQ 100 CORE PREMIUM INCOME ETF",
+        "SUM_FRSEC_BUY_AMT": "27357694",
+        "SUM_FRSEC_SELL_AMT": "7167949",
+        "SUM_FRSEC_TOT_AMT": "34525643",
+        "SUM_FRSEC_NET_BUY_AMT": "20189746"
+      },
+      {
+        "RNUM": "42",
+        "NATION_NM": "미국",
+        "ISIN": "US81369Y8030",
+        "KOR_SECN_NM": "TECHNOLOGY SELECT SECTOR SPDR FUND ETF",
+        "SUM_FRSEC_BUY_AMT": "25666916",
+        "SUM_FRSEC_SELL_AMT": "5972436",
+        "SUM_FRSEC_TOT_AMT": "31639352",
+        "SUM_FRSEC_NET_BUY_AMT": "19694481"
+      },
+      {
+        "RNUM": "43",
+        "NATION_NM": "미국",
+        "ISIN": "US00123Q1040",
+        "KOR_SECN_NM": "AGNC INVESTMENT CORP CHAN 39626602014 US02503X1054",
+        "SUM_FRSEC_BUY_AMT": "22833192",
+        "SUM_FRSEC_SELL_AMT": "3522921",
+        "SUM_FRSEC_TOT_AMT": "26356113",
+        "SUM_FRSEC_NET_BUY_AMT": "19310271"
+      },
+      {
+        "RNUM": "44",
+        "NATION_NM": "미국",
+        "ISIN": "US7707001027",
+        "KOR_SECN_NM": "ROBINHOOD MARKETS INC",
+        "SUM_FRSEC_BUY_AMT": "47612282",
+        "SUM_FRSEC_SELL_AMT": "28669923",
+        "SUM_FRSEC_TOT_AMT": "76282205",
+        "SUM_FRSEC_NET_BUY_AMT": "18942359"
+      },
+      {
+        "RNUM": "45",
+        "NATION_NM": "미국",
+        "ISIN": "US67066G1040",
+        "KOR_SECN_NM": "NVIDIA CORP",
+        "SUM_FRSEC_BUY_AMT": "248249591",
+        "SUM_FRSEC_SELL_AMT": "229894510",
+        "SUM_FRSEC_TOT_AMT": "478144101",
+        "SUM_FRSEC_NET_BUY_AMT": "18355082"
+      },
+      {
+        "RNUM": "46",
+        "NATION_NM": "미국",
+        "ISIN": "US88636Y8883",
+        "KOR_SECN_NM": "DEFIAN DIY TT 2X LO IREN ETF SPLR 2641253609002 US88636W6509",
+        "SUM_FRSEC_BUY_AMT": "20404409",
+        "SUM_FRSEC_SELL_AMT": "2349689",
+        "SUM_FRSEC_TOT_AMT": "22754098",
+        "SUM_FRSEC_NET_BUY_AMT": "18054719"
+      },
+      {
+        "RNUM": "47",
+        "NATION_NM": "미국",
+        "ISIN": "US30260D1037",
+        "KOR_SECN_NM": "FIGS INC CL A",
+        "SUM_FRSEC_BUY_AMT": "19591107",
+        "SUM_FRSEC_SELL_AMT": "3615995",
+        "SUM_FRSEC_TOT_AMT": "23207102",
+        "SUM_FRSEC_NET_BUY_AMT": "15975113"
+      },
+      {
+        "RNUM": "48",
+        "NATION_NM": "미국",
+        "ISIN": "US6541061031",
+        "KOR_SECN_NM": "NIKE INC CL B",
+        "SUM_FRSEC_BUY_AMT": "39062886",
+        "SUM_FRSEC_SELL_AMT": "24931229",
+        "SUM_FRSEC_TOT_AMT": "63994115",
+        "SUM_FRSEC_NET_BUY_AMT": "14131657"
+      },
+      {
+        "RNUM": "49",
+        "NATION_NM": "미국",
+        "ISIN": "US4642874329",
+        "KOR_SECN_NM": "ISHARES 20+ YEAR TREASURY BOND ETF",
+        "SUM_FRSEC_BUY_AMT": "56453666",
+        "SUM_FRSEC_SELL_AMT": "42325591",
+        "SUM_FRSEC_TOT_AMT": "98779256",
+        "SUM_FRSEC_NET_BUY_AMT": "14128075"
+      },
+      {
+        "RNUM": "50",
+        "NATION_NM": "미국",
+        "ISIN": "US7731211089",
+        "KOR_SECN_NM": "ROCKET LAB CORPORATION COM USD0.0001 MRGR 978814817 US7731221062",
+        "SUM_FRSEC_BUY_AMT": "46281659",
+        "SUM_FRSEC_SELL_AMT": "32201647",
+        "SUM_FRSEC_TOT_AMT": "78483306",
+        "SUM_FRSEC_NET_BUY_AMT": "14080012"
+      }
+    ],
+    "ETF상위10": {
+      "SOXL": 1,
+      "KORU": 3,
+      "QLD": 5,
+      "TQQQ": 6,
+      "QQQM": 8,
+      "VOO": 9,
+      "QQQ": 11,
+      "JEPQ": 12,
+      "SGOV": 13,
+      "SOXX": 17
+    }
+  },
+  "주간": {
+    "기간": [
+      "2026-10-26",
+      "2026-10-30"
+    ],
+    "전체50": [
+      {
+        "RNUM": "1",
+        "NATION_NM": "미국",
+        "ISIN": "US84615Q1031",
+        "KOR_SECN_NM": "SPACE EXPLORATION TECHN-CL A",
+        "SUM_FRSEC_BUY_AMT": "235698863",
+        "SUM_FRSEC_SELL_AMT": "33460832",
+        "SUM_FRSEC_TOT_AMT": "269159695",
+        "SUM_FRSEC_NET_BUY_AMT": "202238031"
+      },
+      {
+        "RNUM": "2",
+        "NATION_NM": "미국",
+        "ISIN": "US02079K3059",
+        "KOR_SECN_NM": "ALPHABET INC CL A",
+        "SUM_FRSEC_BUY_AMT": "223427720",
+        "SUM_FRSEC_SELL_AMT": "28804246",
+        "SUM_FRSEC_TOT_AMT": "252231966",
+        "SUM_FRSEC_NET_BUY_AMT": "194623474"
+      },
+      {
+        "RNUM": "3",
+        "NATION_NM": "미국",
+        "ISIN": "US5951121038",
+        "KOR_SECN_NM": "MICRON TECHNOLOGY INC",
+        "SUM_FRSEC_BUY_AMT": "228703723",
+        "SUM_FRSEC_SELL_AMT": "60120312",
+        "SUM_FRSEC_TOT_AMT": "288824035",
+        "SUM_FRSEC_NET_BUY_AMT": "168583411"
+      },
+      {
+        "RNUM": "4",
+        "NATION_NM": "미국",
+        "ISIN": "US74347X8314",
+        "KOR_SECN_NM": "PROSHARES ULTRAPRO QQQ ETF",
+        "SUM_FRSEC_BUY_AMT": "135978297",
+        "SUM_FRSEC_SELL_AMT": "31017056",
+        "SUM_FRSEC_TOT_AMT": "166995353",
+        "SUM_FRSEC_NET_BUY_AMT": "104961242"
+      },
+      {
+        "RNUM": "5",
+        "NATION_NM": "미국",
+        "ISIN": "US74347R2067",
+        "KOR_SECN_NM": "PROSHARES ULTRA QQQ ETF",
+        "SUM_FRSEC_BUY_AMT": "87045201",
+        "SUM_FRSEC_SELL_AMT": "4637449",
+        "SUM_FRSEC_TOT_AMT": "91682649",
+        "SUM_FRSEC_NET_BUY_AMT": "82407752"
+      },
+      {
+        "RNUM": "6",
+        "NATION_NM": "미국",
+        "ISIN": "US55024U1097",
+        "KOR_SECN_NM": "LUMENTUM HOLDINGS INC SOFF 39520207144 US46612J5074",
+        "SUM_FRSEC_BUY_AMT": "110664525",
+        "SUM_FRSEC_SELL_AMT": "49998180",
+        "SUM_FRSEC_TOT_AMT": "160662705",
+        "SUM_FRSEC_NET_BUY_AMT": "60666345"
+      },
+      {
+        "RNUM": "7",
+        "NATION_NM": "미국",
+        "ISIN": "US46138G6492",
+        "KOR_SECN_NM": "INVESCO NASDAQ 100 ETF",
+        "SUM_FRSEC_BUY_AMT": "58610352",
+        "SUM_FRSEC_SELL_AMT": "2430540",
+        "SUM_FRSEC_TOT_AMT": "61040892",
+        "SUM_FRSEC_NET_BUY_AMT": "56179812"
+      },
+      {
+        "RNUM": "8",
+        "NATION_NM": "미국",
+        "ISIN": "US0937121079",
+        "KOR_SECN_NM": "BLOOM ENERGY CORP CL A",
+        "SUM_FRSEC_BUY_AMT": "62410570",
+        "SUM_FRSEC_SELL_AMT": "21402822",
+        "SUM_FRSEC_TOT_AMT": "83813391",
+        "SUM_FRSEC_NET_BUY_AMT": "41007748"
+      },
+      {
+        "RNUM": "9",
+        "NATION_NM": "미국",
+        "ISIN": "US9229083632",
+        "KOR_SECN_NM": "VANGUARD SP 500 ETF SPLR 39326002188 US9229084135",
+        "SUM_FRSEC_BUY_AMT": "44305432",
+        "SUM_FRSEC_SELL_AMT": "5576922",
+        "SUM_FRSEC_TOT_AMT": "49882354",
+        "SUM_FRSEC_NET_BUY_AMT": "38728511"
+      },
+      {
+        "RNUM": "10",
+        "NATION_NM": "미국",
+        "ISIN": "US46090E1038",
+        "KOR_SECN_NM": "INVESCO QQQ TRUST SRS 1 ETF",
+        "SUM_FRSEC_BUY_AMT": "45968116",
+        "SUM_FRSEC_SELL_AMT": "8036937",
+        "SUM_FRSEC_TOT_AMT": "54005053",
+        "SUM_FRSEC_NET_BUY_AMT": "37931179"
+      },
+      {
+        "RNUM": "11",
+        "NATION_NM": "미국",
+        "ISIN": "US02079K1079",
+        "KOR_SECN_NM": "ALPHABET INC CL C CHAN 39527405649 US38259P7069",
+        "SUM_FRSEC_BUY_AMT": "39362428",
+        "SUM_FRSEC_SELL_AMT": "4055927",
+        "SUM_FRSEC_TOT_AMT": "43418355",
+        "SUM_FRSEC_NET_BUY_AMT": "35306501"
+      },
+      {
+        "RNUM": "12",
+        "NATION_NM": "미국",
+        "ISIN": "US46654Q2030",
+        "KOR_SECN_NM": "J.P. MORGAN NASDAQ EQUITY PREMIUM INCOME ETF",
+        "SUM_FRSEC_BUY_AMT": "33469484",
+        "SUM_FRSEC_SELL_AMT": "2738957",
+        "SUM_FRSEC_TOT_AMT": "36208440",
+        "SUM_FRSEC_NET_BUY_AMT": "30730527"
+      },
+      {
+        "RNUM": "13",
+        "NATION_NM": "미국",
+        "ISIN": "CA82509L1076",
+        "KOR_SECN_NM": "SHOPIFY INC CL A",
+        "SUM_FRSEC_BUY_AMT": "35186199",
+        "SUM_FRSEC_SELL_AMT": "6807406",
+        "SUM_FRSEC_TOT_AMT": "41993605",
+        "SUM_FRSEC_NET_BUY_AMT": "28378793"
+      },
+      {
+        "RNUM": "14",
+        "NATION_NM": "미국",
+        "ISIN": "US25461H2913",
+        "KOR_SECN_NM": "DIREX DAI SEMI BE 3X ETF-USD SPLR 2642142633002 US25461H5726",
+        "SUM_FRSEC_BUY_AMT": "72204753",
+        "SUM_FRSEC_SELL_AMT": "45174318",
+        "SUM_FRSEC_TOT_AMT": "117379070",
+        "SUM_FRSEC_NET_BUY_AMT": "27030435"
+      },
+      {
+        "RNUM": "15",
+        "NATION_NM": "미국",
+        "ISIN": "AU0000185993",
+        "KOR_SECN_NM": "IRIS ENERGY LTD",
+        "SUM_FRSEC_BUY_AMT": "36369373",
+        "SUM_FRSEC_SELL_AMT": "11033923",
+        "SUM_FRSEC_TOT_AMT": "47403297",
+        "SUM_FRSEC_NET_BUY_AMT": "25335450"
+      },
+      {
+        "RNUM": "16",
+        "NATION_NM": "미국",
+        "ISIN": "US67066G1040",
+        "KOR_SECN_NM": "NVIDIA CORP",
+        "SUM_FRSEC_BUY_AMT": "65810717",
+        "SUM_FRSEC_SELL_AMT": "40522319",
+        "SUM_FRSEC_TOT_AMT": "106333036",
+        "SUM_FRSEC_NET_BUY_AMT": "25288398"
+      },
+      {
+        "RNUM": "17",
+        "NATION_NM": "미국",
+        "ISIN": "US92189F6768",
+        "KOR_SECN_NM": "VANECK SEMICONDUCTOR ETF CHAN 39610601171 US57060U2336",
+        "SUM_FRSEC_BUY_AMT": "25183628",
+        "SUM_FRSEC_SELL_AMT": "2500254",
+        "SUM_FRSEC_TOT_AMT": "27683883",
+        "SUM_FRSEC_NET_BUY_AMT": "22683374"
+      },
+      {
+        "RNUM": "18",
+        "NATION_NM": "미국",
+        "ISIN": "US4642875235",
+        "KOR_SECN_NM": "ISHARES SEMICONDUCTOR ETF",
+        "SUM_FRSEC_BUY_AMT": "42675476",
+        "SUM_FRSEC_SELL_AMT": "20089672",
+        "SUM_FRSEC_TOT_AMT": "62765148",
+        "SUM_FRSEC_NET_BUY_AMT": "22585804"
+      },
+      {
+        "RNUM": "19",
+        "NATION_NM": "미국",
+        "ISIN": "US46222L1089",
+        "KOR_SECN_NM": "IONQ INC. CL.A   DL- 0001",
+        "SUM_FRSEC_BUY_AMT": "30255059",
+        "SUM_FRSEC_SELL_AMT": "11191488",
+        "SUM_FRSEC_TOT_AMT": "41446547",
+        "SUM_FRSEC_NET_BUY_AMT": "19063572"
+      },
+      {
+        "RNUM": "20",
+        "NATION_NM": "미국",
+        "ISIN": "US22788C1053",
+        "KOR_SECN_NM": "CROWDSTRIKE HOLDINGS CL A ORD",
+        "SUM_FRSEC_BUY_AMT": "18877801",
+        "SUM_FRSEC_SELL_AMT": "2600856",
+        "SUM_FRSEC_TOT_AMT": "21478657",
+        "SUM_FRSEC_NET_BUY_AMT": "16276944"
+      },
+      {
+        "RNUM": "21",
+        "NATION_NM": "미국",
+        "ISIN": "US81369Y8030",
+        "KOR_SECN_NM": "TECHNOLOGY SELECT SECTOR SPDR FUND ETF",
+        "SUM_FRSEC_BUY_AMT": "16570793",
+        "SUM_FRSEC_SELL_AMT": "371914",
+        "SUM_FRSEC_TOT_AMT": "16942707",
+        "SUM_FRSEC_NET_BUY_AMT": "16198880"
+      },
+      {
+        "RNUM": "22",
+        "NATION_NM": "미국",
+        "ISIN": "US4581401001",
+        "KOR_SECN_NM": "INTEL CORP",
+        "SUM_FRSEC_BUY_AMT": "50053688",
+        "SUM_FRSEC_SELL_AMT": "34505904",
+        "SUM_FRSEC_TOT_AMT": "84559593",
+        "SUM_FRSEC_NET_BUY_AMT": "15547784"
+      },
+      {
+        "RNUM": "23",
+        "NATION_NM": "미국",
+        "ISIN": "US78464A8541",
+        "KOR_SECN_NM": "SPDR PORTFOLIO SP 500 ETF",
+        "SUM_FRSEC_BUY_AMT": "15836791",
+        "SUM_FRSEC_SELL_AMT": "640230",
+        "SUM_FRSEC_TOT_AMT": "16477021",
+        "SUM_FRSEC_NET_BUY_AMT": "15196561"
+      },
+      {
+        "RNUM": "24",
+        "NATION_NM": "미국",
+        "ISIN": "US78433H6751",
+        "KOR_SECN_NM": "NEOS NASDAQ 100 HIGH INCOME ETF",
+        "SUM_FRSEC_BUY_AMT": "14134142",
+        "SUM_FRSEC_SELL_AMT": "3067043",
+        "SUM_FRSEC_TOT_AMT": "17201185",
+        "SUM_FRSEC_NET_BUY_AMT": "11067100"
+      },
+      {
+        "RNUM": "25",
+        "NATION_NM": "미국",
+        "ISIN": "US81369Y5069",
+        "KOR_SECN_NM": "ENERGY SELECT SECTOR SPDR ETF",
+        "SUM_FRSEC_BUY_AMT": "11491250",
+        "SUM_FRSEC_SELL_AMT": "503122",
+        "SUM_FRSEC_TOT_AMT": "11994372",
+        "SUM_FRSEC_NET_BUY_AMT": "10988127"
+      },
+      {
+        "RNUM": "26",
+        "NATION_NM": "미국",
+        "ISIN": "US0079031078",
+        "KOR_SECN_NM": "ADVANCED MICRO DEVICES INC",
+        "SUM_FRSEC_BUY_AMT": "28173102",
+        "SUM_FRSEC_SELL_AMT": "17775936",
+        "SUM_FRSEC_TOT_AMT": "45949037",
+        "SUM_FRSEC_NET_BUY_AMT": "10397166"
+      },
+      {
+        "RNUM": "27",
+        "NATION_NM": "미국",
+        "ISIN": "US74347R6696",
+        "KOR_SECN_NM": "PROSHARES ULTRA SEMICONDUCTORS ETF",
+        "SUM_FRSEC_BUY_AMT": "13879286",
+        "SUM_FRSEC_SELL_AMT": "3513732",
+        "SUM_FRSEC_TOT_AMT": "17393018",
+        "SUM_FRSEC_NET_BUY_AMT": "10365554"
+      },
+      {
+        "RNUM": "28",
+        "NATION_NM": "미국",
+        "ISIN": "US30303M1027",
+        "KOR_SECN_NM": "META PLATFORMS INC CL A",
+        "SUM_FRSEC_BUY_AMT": "32067388",
+        "SUM_FRSEC_SELL_AMT": "22330134",
+        "SUM_FRSEC_TOT_AMT": "54397522",
+        "SUM_FRSEC_NET_BUY_AMT": "9737254"
+      },
+      {
+        "RNUM": "29",
+        "NATION_NM": "미국",
+        "ISIN": "US0636795421",
+        "KOR_SECN_NM": "MicroSectors Gold Miners 3X Leveraged ETN",
+        "SUM_FRSEC_BUY_AMT": "13534286",
+        "SUM_FRSEC_SELL_AMT": "4272048",
+        "SUM_FRSEC_TOT_AMT": "17806334",
+        "SUM_FRSEC_NET_BUY_AMT": "9262238"
+      },
+      {
+        "RNUM": "30",
+        "NATION_NM": "미국",
+        "ISIN": "US1912161007",
+        "KOR_SECN_NM": "THE COCA COLA COMPANY",
+        "SUM_FRSEC_BUY_AMT": "11039719",
+        "SUM_FRSEC_SELL_AMT": "3188288",
+        "SUM_FRSEC_TOT_AMT": "14228007",
+        "SUM_FRSEC_NET_BUY_AMT": "7851431"
+      },
+      {
+        "RNUM": "31",
+        "NATION_NM": "미국",
+        "ISIN": "US5738741041",
+        "KOR_SECN_NM": "MARVELL TECHNOLOGY INC",
+        "SUM_FRSEC_BUY_AMT": "20839512",
+        "SUM_FRSEC_SELL_AMT": "13376909",
+        "SUM_FRSEC_TOT_AMT": "34216422",
+        "SUM_FRSEC_NET_BUY_AMT": "7462603"
+      },
+      {
+        "RNUM": "32",
+        "NATION_NM": "미국",
+        "ISIN": "US36828A1016",
+        "KOR_SECN_NM": "GE Vernova",
+        "SUM_FRSEC_BUY_AMT": "9316671",
+        "SUM_FRSEC_SELL_AMT": "2006167",
+        "SUM_FRSEC_TOT_AMT": "11322838",
+        "SUM_FRSEC_NET_BUY_AMT": "7310504"
+      },
+      {
+        "RNUM": "33",
+        "NATION_NM": "미국",
+        "ISIN": "US81369Y2090",
+        "KOR_SECN_NM": "HEALTH CARE SELECT SECTOR SPDR FUND ETF",
+        "SUM_FRSEC_BUY_AMT": "8679871",
+        "SUM_FRSEC_SELL_AMT": "1568407",
+        "SUM_FRSEC_TOT_AMT": "10248277",
+        "SUM_FRSEC_NET_BUY_AMT": "7111464"
+      },
+      {
+        "RNUM": "34",
+        "NATION_NM": "미국",
+        "ISIN": "US80004C2008",
+        "KOR_SECN_NM": "SNDSK CRP ORD WI",
+        "SUM_FRSEC_BUY_AMT": "42135758",
+        "SUM_FRSEC_SELL_AMT": "35740263",
+        "SUM_FRSEC_TOT_AMT": "77876021",
+        "SUM_FRSEC_NET_BUY_AMT": "6395495"
+      },
+      {
+        "RNUM": "35",
+        "NATION_NM": "미국",
+        "ISIN": "US25461A8412",
+        "KOR_SECN_NM": "DIREXION DAILY GOOGL BULL 1.5X SHARES",
+        "SUM_FRSEC_BUY_AMT": "7362205",
+        "SUM_FRSEC_SELL_AMT": "1035891",
+        "SUM_FRSEC_TOT_AMT": "8398096",
+        "SUM_FRSEC_NET_BUY_AMT": "6326314"
+      },
+      {
+        "RNUM": "36",
+        "NATION_NM": "미국",
+        "ISIN": "US46138G6153",
+        "KOR_SECN_NM": "INVESCO PHLX SEMICONDUCTOR ETF",
+        "SUM_FRSEC_BUY_AMT": "7279747",
+        "SUM_FRSEC_SELL_AMT": "1093784",
+        "SUM_FRSEC_TOT_AMT": "8373531",
+        "SUM_FRSEC_NET_BUY_AMT": "6185963"
+      },
+      {
+        "RNUM": "37",
+        "NATION_NM": "미국",
+        "ISIN": "US8629453007",
+        "KOR_SECN_NM": "STRIVE INC SPLR 2640969890002 US8629451027",
+        "SUM_FRSEC_BUY_AMT": "11417092",
+        "SUM_FRSEC_SELL_AMT": "5380402",
+        "SUM_FRSEC_TOT_AMT": "16797494",
+        "SUM_FRSEC_NET_BUY_AMT": "6036689"
+      },
+      {
+        "RNUM": "38",
+        "NATION_NM": "미국",
+        "ISIN": "US90184D1000",
+        "KOR_SECN_NM": "TWIST BIOSCIENCE CORP",
+        "SUM_FRSEC_BUY_AMT": "9952959",
+        "SUM_FRSEC_SELL_AMT": "4001687",
+        "SUM_FRSEC_TOT_AMT": "13954646",
+        "SUM_FRSEC_NET_BUY_AMT": "5951271"
+      },
+      {
+        "RNUM": "39",
+        "NATION_NM": "미국",
+        "ISIN": "US38149W6306",
+        "KOR_SECN_NM": "GOLDMAN SACHS NASDAQ 100 CORE PREMIUM INCOME ETF",
+        "SUM_FRSEC_BUY_AMT": "7625722",
+        "SUM_FRSEC_SELL_AMT": "1791509",
+        "SUM_FRSEC_TOT_AMT": "9417230",
+        "SUM_FRSEC_NET_BUY_AMT": "5834213"
+      },
+      {
+        "RNUM": "40",
+        "NATION_NM": "미국",
+        "ISIN": "US78392B2060",
+        "KOR_SECN_NM": "SK HYNIX INC SPON ADS EACH REP 0.1 SHS WI",
+        "SUM_FRSEC_BUY_AMT": "38077206",
+        "SUM_FRSEC_SELL_AMT": "32480709",
+        "SUM_FRSEC_TOT_AMT": "70557915",
+        "SUM_FRSEC_NET_BUY_AMT": "5596497"
+      },
+      {
+        "RNUM": "41",
+        "NATION_NM": "미국",
+        "ISIN": "US7811541090",
+        "KOR_SECN_NM": "RUBRIK INC",
+        "SUM_FRSEC_BUY_AMT": "7284834",
+        "SUM_FRSEC_SELL_AMT": "1709845",
+        "SUM_FRSEC_TOT_AMT": "8994678",
+        "SUM_FRSEC_NET_BUY_AMT": "5574989"
+      },
+      {
+        "RNUM": "42",
+        "NATION_NM": "미국",
+        "ISIN": "US78462F1030",
+        "KOR_SECN_NM": "SPDR SP 500 ETF TRUST",
+        "SUM_FRSEC_BUY_AMT": "11980297",
+        "SUM_FRSEC_SELL_AMT": "6906151",
+        "SUM_FRSEC_TOT_AMT": "18886449",
+        "SUM_FRSEC_NET_BUY_AMT": "5074146"
+      },
+      {
+        "RNUM": "43",
+        "NATION_NM": "미국",
+        "ISIN": "US6974351057",
+        "KOR_SECN_NM": "PALO ALTO NETWORKS INC",
+        "SUM_FRSEC_BUY_AMT": "8903124",
+        "SUM_FRSEC_SELL_AMT": "3835047",
+        "SUM_FRSEC_TOT_AMT": "12738171",
+        "SUM_FRSEC_NET_BUY_AMT": "5068077"
+      },
+      {
+        "RNUM": "44",
+        "NATION_NM": "미국",
+        "ISIN": "US7707001027",
+        "KOR_SECN_NM": "ROBINHOOD MARKETS INC",
+        "SUM_FRSEC_BUY_AMT": "14373294",
+        "SUM_FRSEC_SELL_AMT": "9333687",
+        "SUM_FRSEC_TOT_AMT": "23706981",
+        "SUM_FRSEC_NET_BUY_AMT": "5039606"
+      },
+      {
+        "RNUM": "45",
+        "NATION_NM": "미국",
+        "ISIN": "KYG254571055",
+        "KOR_SECN_NM": "CREDO TECHNOLOGY GROUP HOLDING LTD",
+        "SUM_FRSEC_BUY_AMT": "8287927",
+        "SUM_FRSEC_SELL_AMT": "3422674",
+        "SUM_FRSEC_TOT_AMT": "11710601",
+        "SUM_FRSEC_NET_BUY_AMT": "4865254"
+      },
+      {
+        "RNUM": "46",
+        "NATION_NM": "미국",
+        "ISIN": "US19247G1076",
+        "KOR_SECN_NM": "II-VI INCORPORATED Com CHAN 009623241 US9021041085",
+        "SUM_FRSEC_BUY_AMT": "8469398",
+        "SUM_FRSEC_SELL_AMT": "3660186",
+        "SUM_FRSEC_TOT_AMT": "12129584",
+        "SUM_FRSEC_NET_BUY_AMT": "4809212"
+      },
+      {
+        "RNUM": "47",
+        "NATION_NM": "미국",
+        "ISIN": "US04342Y1047",
+        "KOR_SECN_NM": "ASANA INC CL A",
+        "SUM_FRSEC_BUY_AMT": "5137645",
+        "SUM_FRSEC_SELL_AMT": "501624",
+        "SUM_FRSEC_TOT_AMT": "5639269",
+        "SUM_FRSEC_NET_BUY_AMT": "4636021"
+      },
+      {
+        "RNUM": "48",
+        "NATION_NM": "미국",
+        "ISIN": "US88636X2036",
+        "KOR_SECN_NM": "TIDAL TRUST II YIELDMAX MRNA OPT INCOME ST SPLR 988041332 US88634T4691",
+        "SUM_FRSEC_BUY_AMT": "4841104",
+        "SUM_FRSEC_SELL_AMT": "285088",
+        "SUM_FRSEC_TOT_AMT": "5126192",
+        "SUM_FRSEC_NET_BUY_AMT": "4556016"
+      },
+      {
+        "RNUM": "49",
+        "NATION_NM": "미국",
+        "ISIN": "US4642874402",
+        "KOR_SECN_NM": "ISHARES 7-10 YEAR TREASURY BOND ETF",
+        "SUM_FRSEC_BUY_AMT": "5121226",
+        "SUM_FRSEC_SELL_AMT": "726173",
+        "SUM_FRSEC_TOT_AMT": "5847399",
+        "SUM_FRSEC_NET_BUY_AMT": "4395054"
+      },
+      {
+        "RNUM": "50",
+        "NATION_NM": "미국",
+        "ISIN": "US90137F7078",
+        "KOR_SECN_NM": "22ND CENTURY GROUP, INC. SPLR 2641012450002 US90137F6088",
+        "SUM_FRSEC_BUY_AMT": "4545558",
+        "SUM_FRSEC_SELL_AMT": "333489",
+        "SUM_FRSEC_TOT_AMT": "4879047",
+        "SUM_FRSEC_NET_BUY_AMT": "4212069"
+      }
+    ]
+  },
+  "검산": {
+    "월간ETF10합계": 4396171960,
+    "월간전체50합계": 6733863537,
+    "월간상위4ETF합계": 3688007372,
+    "SOXL이주간상위50에있음": false
+  }
+}

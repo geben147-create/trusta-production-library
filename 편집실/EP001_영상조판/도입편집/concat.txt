@@ -1,0 +1,18 @@
+ffconcat version 1.0
+file '/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP001_영상조판/컷/s01-00-0-story.jpg'
+option framerate 24
+duration 4.71352000
+file '/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP001_영상조판/컷/s01-00-0-ref.jpg'
+option framerate 24
+duration 6.36040000
+file '/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP001_영상조판/컷/s01-00-1-ref.jpg'
+option framerate 24
+duration 6.96845500
+file '/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP001_영상조판/컷/s01-01-0-ref.jpg'
+option framerate 24
+duration 11.98525000
+file '/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP001_영상조판/컷/s01-01-1-ref.jpg'
+option framerate 24
+duration 9.25170833
+file '/run/media/yh/새 볼륨/_opencv(원페이지+릴스)/output/TRUSTA_블로그_105편/편집실/EP001_영상조판/컷/s01-01-1-ref.jpg'
+option framerate 24

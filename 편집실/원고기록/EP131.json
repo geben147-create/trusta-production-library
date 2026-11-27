@@ -1,0 +1,36 @@
+{
+  "ID": "EP131",
+  "제목": "금 ETF와 미국 장기채 ETF에 똑같이 1만 달러를 넣으면? IAU와 TLT의 5년 비교",
+  "독자": "금과 미국 장기국채의 현금화 조건을 비교하는 독자",
+  "주요질문": "같은 1만 달러에 시작과 종료 날짜를 맞추면 어느 상품에 얼마가 남았을까?",
+  "답": "2021~2025년 공시 NAV로 재구성하면 IAU 22,498.12달러, TLT 6,457.05달러다. 기간과 현금화 날짜에 따라 해석이 바뀐다.",
+  "출처": [
+    {
+      "제목": "iShares IAU 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/iau-ishares-gold-trust-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "iShares TLT 팩트시트",
+      "URL": "https://www.ishares.com/us/literature/fact-sheet/tlt-ishares-20-year-treasury-bond-etf-fund-fact-sheet-en-us.pdf"
+    },
+    {
+      "제목": "미 연준 H.15 · FRED 30년 만기 국채 시장수익률",
+      "URL": "https://fred.stlouisfed.org/series/DGS30"
+    },
+    {
+      "제목": "미 연준 H.10 · FRED 원·달러 현물환율",
+      "URL": "https://fred.stlouisfed.org/series/DEXKOUS"
+    }
+  ],
+  "기준": "2021~2025 달력연도 달러 NAV 총수익",
+  "확인일": "2026-11-27",
+  "이미지": [],
+  "원고": "EP131.md",
+  "팩트체크": "공식 NAV·환율·미국 30년 금리, 달러·원화 수익과 연말 표본 낙폭 재현. 일별 낙폭 및 지정 음성 미실측.",
+  "관련": [
+    "EP129"
+  ],
+  "분야": "자산 비교",
+  "원고해시": "80d9efc69711a71999c198aadebc51e508ab4984df7fe1ac11905ac5a2c6762c",
+  "장문진행": "8단계 블로그 초고 저장. 16:9 시각화 및 Qwen 음성 실측 대기."
+}
